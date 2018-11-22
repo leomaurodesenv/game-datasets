@@ -10,7 +10,7 @@ ___
 ## Summary
 - [Open-Source Game](#open-source-game)   
 - [Online API](#online-api)   
-- [Datasets](#dataset)   
+- [Datasets](#datasets)   
 - [Misc](#misc)   
    
 ___
@@ -41,11 +41,11 @@ ___
 ## Misc
 Some traditional games in JavaScript, located in the `source` folder.   
    
-- [Digger](#a): the player is placed in an underground maze and can dig horizontal and vertical tunnels. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/digger)]   
-- [Duck Hunt](#a): a shooting game of ducks. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/duckhunt)]   
-- [Infinite Mario Bros](#a): infinite maps of Mario. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/infinitemariobros)]   
-- [Onslaught! Arena](#a): Fight off hordes of classical medieval monsters! \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/onslaughtarena)]   
-- [Starship](#a): traditional starship game. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/starshipsorades)]   
+- [Digger](http://games.leonardomauro.com/digger/): the player is placed in an underground maze and can dig horizontal and vertical tunnels. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/digger)]   
+- [Duck Hunt](http://games.leonardomauro.com/duckhunt/): a shooting game of ducks. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/duckhunt)]   
+- [Infinite Mario Bros](http://games.leonardomauro.com/infinitemariobros/): infinite maps of Mario. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/infinitemariobros)]   
+- [Onslaught! Arena](http://games.leonardomauro.com/onslaughtarena/): Fight off hordes of classical medieval monsters! \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/onslaughtarena)]   
+- [Starship](http://games.leonardomauro.com/starshipsorades/): traditional starship game. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/starshipsorades)]   
    
 ___
    
