@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Infinite Mario - JavaScript</title>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	</head>
+	<body>
+		<canvas id="canvas" width="320" height="240">
+			<p>Your browser does not support the canvas element.</p>
+		</canvas>
+        <script type="text/javascript">
+        
+        var img = new Image();
+        img.src = "images/enemysheet.png";
+        var canvas = document.getElementById("canvas");
+        var ctx = canvas.getContext('2d');
+        
+        ctx.save();
+        ctx.scale(-1, 1);
+        ctx.drawImage(img, -img.width, 0, img.width, img.height);
+        ctx.restore();
+        
+        ctx.save();
+        ctx.scale(-1, 1);
+        ctx.translate(-320, 0);
+        ctx.drawImage(img, 2 * 16, 1 * 32, 16, 32, 300 - 50, 50, 16, 32);
+        ctx.restore();
+        
+        </script>
+    </body>
+</html>

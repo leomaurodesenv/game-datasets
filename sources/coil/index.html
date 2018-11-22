@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en"> 
+    <head>
+		<meta charset="utf-8">
+		
+		<meta name="description" content="Coil - An addictive HTML5 canvas game where you have to defeat your enemies by enclosing them in your trail." />
+		<meta name="author" content="Hakim El Hattab" />
+		
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+		<meta name="viewport" content="width = 450">
+		
+        <title>Coil - Use your trail to enclose enemies in this reflex HTML5 game.</title>
+        
+		<link href="css/reset.css" rel="stylesheet" media="screen" />
+		<link href="css/main.css" rel="stylesheet" media="screen" />
+		
+		<link href='http://fonts.googleapis.com/css?family=Molengo' rel='stylesheet' type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
+		
+		<!-- WebGL vertex shader (background effect) -->
+		<script id="vertexShader" type="x-shader/x-vertex">
+			attribute vec2 position;
+			
+			varying vec2 pos;
+			
+			void main()
+			{
+				pos = position;
+				
+				gl_Position = vec4( position.x, position.y, 0.0, 1.0 );
+			}
+		</script> 
+		
+		<!-- WebGL fragment shader (background effect) -->
+		<script id="fragmentShader" type="x-shader/x-fragment"> 
+			#ifdef GL_ES
+			precision highp float;
+			#endif
+			
+			varying vec2 pos;
+			
+			uniform vec2 mouse;
+			uniform vec2 resolution;
+			uniform float time;
+			uniform sampler2D texture;
+			
+			uniform vec3 e0;
+			uniform vec3 e1;
+			uniform vec3 e2;
+			uniform vec3 e3;
+			uniform vec3 e4;
+			uniform vec3 e5;
+			uniform vec3 e6;
+			uniform vec3 e7;
+			uniform vec3 e8;
+			uniform vec3 e9;
+			
+			float distance(vec2 p1, vec2 p2)
+			{
+				float dx = p1.x-p2.x;
+				float dy = p1.y-p2.y;
+				return sqrt(dx*dx + dy*dy);
+			}
+			
+			float lightEffect( vec3 e, vec2 p )
+			{
+				if( e.z == 0.0 ) {
+					return 0.0;
+				}
+				
+				vec2 ep = -1.0 + 2.0 * e.xy / resolution.xy;
+				
+				float dist = ( 1.0 - min( distance( ep, p ) * 2.0, 1.0 ) );
+				
+				return dist * 0.3 * e.z;
+			}
+			
+			vec2 deformEffect( vec3 e, vec2 p )
+			{
+				if( e.z == 0.0 ) {
+					return vec2(0.0, 0.0);
+				}
+				
+				vec2 ep = -1.0 + 2.0 * e.xy / resolution.xy;
+				
+				float dist = ( 1.0 - min( distance( ep, p ) * 2.0, 1.0 ) );
+				
+				float a = atan(p.y-ep.y,p.x-ep.x);
+				float r = sqrt(dot(p-ep,p-ep));
+				
+				vec2 offset = vec2( dist * (p.x-ep.x) * cos(time), dist * (p.y-ep.y) * sin(time) );
+				
+				return offset * e.z * 0.5;
+			}
+			
+			void main(void)
+			{
+				
+				vec2 p = -1.0 + 2.0 * gl_FragCoord.xy / resolution.xy;
+				vec2 m = -1.0 + 2.0 * mouse.xy / resolution.xy;
+				
+				p.y = -p.y;
+				
+				float light = 0.0;
+				light += lightEffect( e0, p );
+				light += lightEffect( e1, p );
+				light += lightEffect( e2, p );
+				light += lightEffect( e3, p );
+				light += lightEffect( e4, p );
+				light += lightEffect( e5, p );
+				light += lightEffect( e6, p );
+				light += lightEffect( e7, p );
+				light += lightEffect( e8, p );
+				light += lightEffect( e9, p );
+				light += ( 1.0 - ( distance( m, p ) ) ) * 0.08;
+				light = min( light, 1.0 );
+				
+			 	vec2 uv = pos;
+				uv += deformEffect( e0, p );
+				uv += deformEffect( e1, p );
+				uv += deformEffect( e2, p );
+				uv += deformEffect( e3, p );
+				uv += deformEffect( e4, p );
+				uv += deformEffect( e5, p );
+				uv += deformEffect( e6, p );
+				uv += deformEffect( e7, p );
+				uv += deformEffect( e8, p );
+				uv += deformEffect( e9, p );
+				
+				vec3 col = texture2D(texture, uv).xyz * light;
+				
+			    gl_FragColor = vec4( col, 0.8 * light );
+			}
+		</script>
+		
+    </head>
+    <body>
+    	<header>
+    		<h1>Coil</h1>
+    		<span class="header-instruction">Expand for more info.</span>
+    		
+    		<!-- The extra content that can be expanded -->
+    		<div class="extra">
+	    		
+    			<!-- Description of the experiment -->
+    			<section id="about">
+    				<h3>About</h3>
+	    			<p>
+						Coil is an addictive HTML5 canvas game where you<br>
+						have to defeat your enemies by enclosing them in<br>
+						your trail.
+	    			</p>
+	    			<p class="credits">
+	    				Created by <a href="http://hakim.se/">Hakim El Hattab</a> | <a href="http://twitter.com/hakimel">@hakimel</a>
+    				</p>
+	    		</section>
+	    		
+	    		<!-- Social sharing -->
+	    		<section id="share">
+	    			<h3>Share</h3>
+					<iframe id="facebook-button" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fhakim.se%2Fexperiments%2Fhtml5%2Fcoil%2F&layout=box_count&show_faces=false&width=90&action=like&font=arial&colorscheme=light&height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:55px; height:60px;" allowTransparency="true"></iframe> 
+					<div id="retweet-button"> 
+						<a href="http://twitter.com/share" class="twitter-share-button" data-url="http://hakim.se/experiments/html5/coil/" data-text="Use your trail to enclose enemies in this reflex HTML5 game, Coil by @hakimel" data-count="vertical" data-related="hakimel">Tweet</a> 
+						<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script> 
+					</div> 
+					<div id="flattr-button">
+	    				<a class="FlattrButton" style="display:none;" href="http://hakim.se/experiments/html5/coil/"></a>
+	    			</div> 
+	    		</section>
+	    		</section>
+	    		
+    		</div>
+    	</header>
+    	
+		<div id="game">
+			<canvas id="effects"></canvas>
+			<canvas id="world"></canvas>
+			<p id="lag-warning">Looks like the game is running slowly. <a href="#">Disable grid effects?</a></p>
+			<div id="menu">
+				<h1>Coil</h1>
+				<div id="score">
+					<h3>Your Score:</h3>
+					<p>123312</p>
+				</div>
+				<section class="welcome">
+					<h2>Instructions</h2>
+					<p>Enclose the blue orbs before they explode. Gain bonus points by enclosing multiple orbs at once.</p>
+					<a class="button" id="start-button" href="#">Start Game</a>
+				</section>
+			</div>
+		</div>
+		
+		<script src="js/libs/jquery-1.6.2.min.js"></script>
+		<script src="js/header.js"></script>
+		<script src="js/util.js"></script>
+		<script src="js/coil.js"></script>
+		
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		    (function() {
+		        var s = document.createElement('script'), t = document.getElementsByTagName('script')[0];
+		        s.type = 'text/javascript';
+		        s.async = true;
+		        s.src = 'http://api.flattr.com/js/0.6/load.js?mode=auto';
+		        t.parentNode.insertBefore(s, t);
+		    })();
+		/* ]]> */
+		</script>
+		
+    </body>
+</html>

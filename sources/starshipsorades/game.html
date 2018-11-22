@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Starship SORADES 13K &ndash; A HTML5 Arcade Game by Thiemo M&auml;ttig</title>
+<meta name="description" content="A scrolling shooter in the vein of Raptor: Call of the Shadows and Warning Forever. Are you able to survive 13 waves?">
+<meta name="author" content="Thiemo M&auml;ttig">
+<meta name="date" content="2012-09-11">
+<link rel="canonical" href="http://maettig.com/code/canvas/starship-sorades-13k/">
+
+</head>
+<body>
+
+<div id="container">
+	<canvas width="950" height="713" id="c" moz-opaque>
+		<h1>SORADES 13K</h1>
+		<p>This arcade space shooter requires a modern HTML5 enabled web browser and JavaScript enabled.
+		It was made for the <a href="http://js13kgames.com/">js13kGames</a> competition in 2012.</p>
+	</canvas>
+</div>
+
+<p id="tweet">
+	<!-- The default message will be changed by the script -->
+	<a href="https://twitter.com/share?text=I+played+SORADES+13K.&url=http://maettig.com/code/canvas/starship-sorades-13k/&via=maettig"
+		target="twitter">Click here to tweet your score</a><br>
+	or blog it:<br>
+	<input value="I played SORADES 13K: http://maettig.com/code/canvas/starship-sorades-13k/">
+</p>
+
+<!-- I merged both scripts to a single file and used Closure Compiler to compress it. This also makes it run a lot faster. -->
+<script src="jsfxr.js"></script>
+<script src="starship-sorades-13k.js"></script>
+
+</body>
+</html>

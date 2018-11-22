@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Infinite Mario - JavaScript</title>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+	</head>
+	<body>
+		<canvas id="canvas" width="640" height="480">
+			<p>Your browser does not support the canvas element.</p>
+		</canvas>
+        
+		<script src="enjine.min.js"></script>
+		<script src="mario.min.js"></script>
+        <script>$(document).ready(function() { new Enjine.Application().Initialize(new Mario.LoadingState(), 320, 240) });</script>
+	</body>
+</html>

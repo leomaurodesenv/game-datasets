@@ -1,0 +1,103 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+<title>Duck Hunt JS</title>
+    <!-- TODO: Create favion.ico-->
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon"/>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<script src="build/libs.min.js"></script>
+<script src="build/duckhunt.min.js"></script>
+<script src="main.js"></script>
+<style>
+</style>
+</head>
+<body>
+
+<div id="gameField" class="gameField">
+
+	<div id="game" class="game">
+		<div id="theFlash" class="theFlash"></div>
+		<div id="tree" class="tree"></div>
+		<div id="grass" class="grass"></div>
+	</div>
+	<div class="gameinfo ammo" id="ammo"></div>
+	<div class="gameinfo waves" id="waves"></div>
+	<div class="gameinfo duckBoard" id="duckBoard"></div>
+	<div class="gameinfo scoreboard" id="scoreboard"></div>
+
+	<div id="loser" class="messages loser">
+	Are you kidding me with that?
+	<br/><br/>
+	<div class="tryAgain">Try Again</div>
+	</div>
+
+	<div id="winner" class="messages winner">
+	You are a champion!  
+	</div>
+
+	<div id="level" class="messages level">
+	Level 1
+	</div>
+
+</div>
+
+<div id="info"></div>
+
+<audio class="sounds" id="gunSound" preload="auto">
+    <source type="audio/ogg" src="sounds/gunSound.ogg"/>
+    <source type="audio/mp3" src="sounds/gunSound.mp3"/>
+</audio>
+
+<audio class="sounds" id="gunSound2" preload="auto">
+    <source type="audio/ogg" src="sounds/gunSound2.ogg"/>
+    <source type="audio/mp3" src="sounds/gunSound2.mp3"/>
+</audio>
+
+<audio class="sounds" id="laugh" preload="auto">
+    <source type="audio/ogg" src="sounds/laugh.ogg"/>
+    <source type="audio/mp3" src="sounds/laugh.mp3"/>
+</audio>
+
+<audio class="sounds" id="quak" preload="auto">
+    <source type="audio/ogg" src="sounds/quak.ogg"/>
+    <source type="audio/mp3" src="sounds/quak.mp3"/>
+</audio>
+
+<audio class="sounds" id="thud" preload="auto">
+    <source type="audio/ogg" src="sounds/thud.ogg"/>
+    <source type="audio/mp3" src="sounds/thud.mp3"/>
+</audio>
+
+<audio class="sounds" id="ohyeah" preload="auto">
+    <source type="audio/ogg" src="sounds/ohYeah.ogg"/>
+    <source type="audio/mp3" src="sounds/ohYeah.mp3"/>
+</audio>
+
+<audio class="sounds" id="quacking" loop="loop">
+    <source type="audio/ogg" src="sounds/quacking.ogg"/>
+    <source type="audio/mp3" src="sounds/quacking.mp3"/>
+</audio>
+
+<audio class="sounds" id="sniff" preload="auto">
+    <source type="audio/ogg" src="sounds/sniff.ogg"/>
+    <source type="audio/mp3" src="sounds/sniff.mp3"/>
+</audio>
+
+<audio class="sounds" id="bark" preload="auto">
+    <source type="audio/ogg" src="sounds/barkDucks.ogg"/>
+    <source type="audio/mp3" src="sounds/barkDucks.mp3"/>
+</audio>
+
+<audio class="sounds" id="victory" preload="auto">
+    <source type="audio/ogg" src="sounds/champ.ogg"/>
+    <source type="audio/mp3" src="sounds/champ.mp3"/>
+</audio>
+
+<audio class="sounds" id="defeat" preload="auto">
+    <source type="audio/ogg" src="sounds/loserSound.ogg"/>
+    <source type="audio/mp3" src="sounds/loserSound.mp3"/>
+</audio>
+
+</body>
+</html>

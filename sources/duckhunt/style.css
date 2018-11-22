@@ -1,0 +1,191 @@
+div{
+	-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-o-user-select: none;
+user-select: none;
+}
+body{
+	font-family:arial;	
+}
+a{
+    color:#000000;
+}
+.header{
+	width:900px;
+	margin:0 auto;
+	text-align:center;	
+}
+.duckA{
+	background:url(images/theDuck.png) 0px 0px no-repeat;
+	width:76px;
+	height:73px;	
+	position:absolute;
+	top:400px;
+	left:0;
+}
+.duckB{
+	background:url(images/theOtherDuck.png) 0px 0px no-repeat;
+	width:76px;
+	height:73px;	
+	position:absolute;
+	top:400px;
+	left:0;
+}
+.ducks{
+	width:76px;
+	height:73px;	
+}
+.gameField{
+	width:900px;
+	height:500px;
+	position:relative;
+	margin:0 auto;
+	border:solid;
+	background:#64b0ff;	
+	cursor:pointer;
+	overflow:hidden;
+}
+.game{
+	width:900px;
+	height:500px;
+	position:relative;
+    margin:0 auto;
+}
+.grass{
+	position:absolute;
+	background:url(images/back.png) bottom left no-repeat;
+	 z-index:3;
+	 width:900px;
+	 height:180px;
+	 bottom:0px;
+}
+.tree{
+	position:absolute;
+	background:url(images/tree.png) top left no-repeat;
+	left:70px;
+	bottom:100px;	
+	width:173px;
+	height:260px;
+	z-index:4;
+}
+.theFlash{
+	background:#ffffff;
+	width:900px;
+	height:500px;
+	position:relative;
+	margin:0 auto;	
+	z-index:10;
+	display:none;
+}
+.theDog{
+	width:138px;
+	height:113px;
+	background:url(images/dog.png) 0 0 no-repeat;
+	position:absolute;
+	bottom:-10px;
+	left:350px;
+	z-index:2;
+}
+.searchDog{
+	width:124px;
+	height:130px;
+	background:url(images/dogSniffJump.png) 0 0 no-repeat;
+	position:absolute;
+	bottom:4px;
+	left:-400px;
+	z-index:5;
+}
+.ammo{
+	color:#ffffff;
+	font-size:10px;	
+	text-transform:uppercase;
+	padding-left:10px;
+	position:absolute;
+	top:5px;
+	left:10px;
+}
+.social{
+    width:200px;
+    height:15px;
+    float:right;
+    text-align:right;
+    height:20px;
+}
+.topMenu{
+    width:900px;
+    margin:0 auto;
+    position: relative;
+}
+.linkText{
+    font-size: 11px;
+    color:#000000;
+}
+.waves{
+	position:absolute;
+	bottom:10px;
+	color:#ffffff;
+	font-size:11px;
+	padding-left:10px;
+	z-index:4;
+}
+.duckBoard{
+	position:absolute;
+	bottom:10px;
+	right:10px;
+	height:40px;
+	width:350px;
+	text-align:right;
+	z-index:4;
+    float:right;
+}
+.loser,.winner,.level{
+	text-align:center;
+	width:500px;
+	color:#ffffff;
+	font-size:24px;
+	position:absolute;
+	top:150px;
+	left:200px;
+	display:none;
+}
+.tryAgain{
+	font-size:20px;
+	color:#ffffff;
+	border:solid;
+	padding:7px;
+	width:100px;	
+	margin:0 auto;
+	text-align:center;
+	cursor:pointer;
+}
+.scoreboard{
+	font-size:16px;
+	color:#ffffff;	
+	position:absolute;
+	right:10px;
+	font-weight:bold;
+	top:3px;
+}
+.sounds{
+    display:none;
+}
+.mute,.unmute{
+    cursor:pointer;
+    z-index:5;
+    width:150px;
+    float:left
+}
+.doit{
+    margin-left:15px;
+    display:inline;
+    padding:5px;
+    border:solid;
+    width:100px;
+    text-align:center;
+    cursor:pointer;
+}
+.levelCreator{
+    width:900px;
+    margin:0 auto;
+}

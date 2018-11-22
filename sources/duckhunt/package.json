@@ -1,0 +1,26 @@
+{
+  "name": "DuckHunt-JS",
+  "version": "2.0.0",
+  "description": "Duckhunt implemented in JS",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MattSurabian/DuckHunt-JS.git"
+  },
+  "keywords": [
+    "Duckhunt",
+    "Duckhunt-JS",
+    "HTML5"
+  ],
+  "author": "Matt Surabian",
+  "license": "MIT",
+  "gitHead": "85a85bc6d7a26917cd37d981928ad01be2e06c99",
+  "readmeFilename": "README",
+  "devDependencies": {
+    "grunt": "~0.3.17",
+    "grunt-contrib-compress": "~0.3.3"
+  }
+}
