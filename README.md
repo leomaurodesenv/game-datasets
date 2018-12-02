@@ -39,13 +39,15 @@ Some public datasets.
 ___
    
 ## Misc
-Some traditional games in JavaScript, located in the `source` folder.   
+Some traditional games in JavaScript, located in the `source/` folder.   
    
-- [Digger](http://games.leonardomauro.com/digger/): the player is placed in an underground maze and can dig horizontal and vertical tunnels. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/digger)]   
-- [Duck Hunt](http://games.leonardomauro.com/duckhunt/): a shooting game of ducks. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/duckhunt)]   
-- [Infinite Mario Bros](http://games.leonardomauro.com/infinitemariobros/): infinite maps of Mario. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/infinitemariobros)]   
-- [Onslaught! Arena](http://games.leonardomauro.com/onslaughtarena/): Fight off hordes of classical medieval monsters! \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/onslaughtarena)]   
-- [Starship](http://games.leonardomauro.com/starshipsorades/): traditional starship game. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB/tree/master/gamesources/starshipsorades)]   
+| Name                                                                                           | Description                                                                              | Languange                | Links                                                                                              |
+|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------------------------------------|
+| [Digger](http://games.leonardomauro.com/digger/)                                               | The player is placed in an underground maze and can dig horizontal and vertical tunnels. | JavaScript               | \[[GitHub](https://github.com/leomaurodesenv/game-datasets/tree/master/sources/digger)]            |
+| [Duck Hunt](http://duckhuntjs.com/)                                                            | Shooting game in ducks.                                                                  | NodeJS                   | \[[GitHub](https://github.com/MattSurabian/DuckHunt-JS)]                                           |
+| [Infinite Mario Bros](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html) | Infinite courses maps of Super Mario Bros.                                               | JavaScript/HTML5         | \[[GitHub](https://github.com/leomaurodesenv/game-datasets/tree/master/sources/infinitemariobros)] |
+| [Onslaught! Arena](http://arcade.lostdecadegames.com/onslaught-arena/)                         | Fight off hordes of classical medieval monsters!                                         | JavaScript/Chrome Plugin | \[[GitHub](https://github.com/lostdecade/onslaught_arena)]                                         |
+| [Starship](http://games.leonardomauro.com/starshipsorades/)                                    | Traditional starship game.                                                               | JavaScript               | \[[GitHub](https://github.com/leomaurodesenv/game-datasets/tree/master/sources/starshipsorades)]   |   
    
 ___
    
