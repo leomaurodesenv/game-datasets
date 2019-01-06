@@ -1,9 +1,9 @@
 # Game Datasets #
-This repository [GitHub](https://github.com/leomaurodesenv/game-datasets) serves as a guide for anyone who wants to work with **Data Mining** and **Artificial Intelligence (AI)** in digital games!   
+This repository [GitHub](https://github.com/leomaurodesenv/game-datasets) serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence (AI)** in digital games!   
 
 Here you will find a series of tools and materials available to build your _database_.   
 
-**Feature**: Project Malmo in [Open-Source Game](#open-source-game).   
+**Feature**: Malmo in [Open-Source Game](#open-source-game).   
    
 ___
    
@@ -11,15 +11,17 @@ ___
 - [Open-Source Game](#open-source-game)   
 - [Online API](#online-api)   
 - [Datasets](#datasets)   
-- [Misc](#misc)   
+- [Web](#web)   
    
 ___
    
 ## Open-Source Game
 This section brings a list of open-source games.   
    
-- [Project Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/): a sophisticated AI experimentation platform built on top of Minecraft. \[[GitHub](https://github.com/Microsoft/malmo)]   
-- [Vindinium](http://vind-legacy.thegrid.red/jh8l8yi1): multi-player turn based on roguelike dungeon game - AI programming challenge. \[[GitHub](https://github.com/ornicar/vindinium), [Python version](https://pythonhosted.org/vindinium/)]
+| Name                                                                     | Description                                                                   | Language                 | Links                                                                                               |
+|--------------------------------------------------------------------------|-------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------------------------------------|
+| [Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/) | A sophisticated AI experimentation platform built on top of Minecraft.        | Python, C++, Java, C#    | \[[GitHub](https://github.com/Microsoft/malmo)]                                                     |
+| [Vindinium](http://vind-legacy.thegrid.red/jh8l8yi1)                     | Multi-player turn based on roguelike dungeon game - AI programming challenge. | 28 programming languages | \[[GitHub](https://github.com/ornicar/vindinium)], \[[Python](https://pythonhosted.org/vindinium/)] |
    
 ___
    
@@ -33,13 +35,16 @@ ___
 ## Datasets
 Some public datasets.   
    
-- [Dota 2 Games-UCI](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results): games results of Dota 2.   
-- [StarCraft 2-UCI](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset): compiled games of StarCraft 2.   
+| Name               | Description                                                                                                                                                         | Links                                                                                                                                                                     |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dota 2 Games (UCI) | Dota 2 is a popular computer game with two teams of 5 players. At the start of the game, each player chooses a unique hero with different strengths and weaknesses. | \[[UCI](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results)]                                                                                                     |
+| StarCraft 2 (UCI)  | Data Stream of matches in StarCraft game.                                                                                                                           | \[[UCI](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset)], \[[Paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075129)] |
    
 ___
    
-## Misc
-Some traditional games in JavaScript, located in the `source/` folder.   
+## Web
+Some traditional games in JavaScript, located in the `sources/` folder.   
+- [Open HTML5 Games](https://github.com/OpenHTML5Games): JavaScript and HTML5 games \[[Play](https://openhtml5games.com/)\].   
    
 | Name                                                                                           | Description                                                                              | Languange                | Links                                                                                              |
 |------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------------------------------------|
