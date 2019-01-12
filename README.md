@@ -38,7 +38,10 @@ ___
 ## Online API
 Some open-source API to crawler game contents.   
    
-- [TGDB](https://thegamesdb.net/): overview and general information about many games from different platforms and consoles. \[[GitHub](https://github.com/TheGamesDB/TheGamesDB)]   
+| Name | Description | Language | Links |
+|---|---|---|---|
+| [Super Mario Maker](https://supermariomakerbookmark.nintendo.net) | User and Course information about the game Super Mario Maker. | NodeJS | \[[User](https://github.com/leomaurodesenv/smm-maker-profile)], \[[Course](https://github.com/leomaurodesenv/smm-course-search)] |
+|[TGDB](https://thegamesdb.net/) | Overview and general information about many games from different platforms and consoles. | REST | \[[GitHub](https://github.com/TheGamesDB/TheGamesDB)] |
    
 ___
    
