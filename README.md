@@ -1,5 +1,5 @@
 # Game Datasets #
-This repository [GitHub](https://github.com/leomaurodesenv/game-datasets) serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence (AI)** in digital games!   
+This [GitHub](https://github.com/leomaurodesenv/game-datasets) repository serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence (AI)** in digital games!   
 
 Here you will find a series of tools and materials available to build your _database_.   
 
