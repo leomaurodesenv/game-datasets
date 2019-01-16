@@ -3,7 +3,7 @@ This repository [GitHub](https://github.com/leomaurodesenv/game-datasets) serves
 
 Here you will find a series of tools and materials available to build your _database_.   
 
-**Feature**: Malmo in [Open-Source Game](#open-source-game).   
+**Feature**: microRTS in [Open-Source Game](#open-source-game).   
    
 ___
    
@@ -19,8 +19,6 @@ ___
 This section brings a list of open-source games.   
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page): the free gaming encyclopedia.   
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto): a list of open-source games.   
-
-   
 | Name | Description | Language | Links |
 |---|---|---|---|
 | Daimonin | Free isometric real-time MMORPG. 2/3D Graphics and sound effects. | - | \[[website](https://www.daimonin.org/)], \[[SourceForge](https://sourceforge.net/projects/daimonin/)] |
@@ -29,6 +27,7 @@ This section brings a list of open-source games.
 | irrlamb | Puzzle game with physics effects in 3D. | C++ | \[[GitHub](https://github.com/jazztickets/irrlamb)] |
 | [Malmo](https://www.microsoft.com/en-us/research/project/project-malmo/) | A sophisticated AI experimentation platform built on top of Minecraft. | Python, C++, Java, C# | \[[GitHub](https://github.com/Microsoft/malmo)] |
 | OpenLieroX | The open source clone of the famous Liero (the realtime Worms) game. | - | \[[website](http://www.openlierox.net/)] |
+| [microRTS](https://sites.google.com/site/micrortsaicompetition/home) | A small implementation of an RTS game, designed to perform AI research. | Java | \[[GitHub](https://github.com/santiontanon/microrts), \[[BR](https://github.com/rubensolv/MicroRTS)]]
 | qengine | Retro game engine for developers that enjoy creating games like Doom. | C | \[[GitHub](https://github.com/klaussilveira/qengine)] |
 | The Genius | Chess engine including artificial intelligence, user interface and several features. | C++ | \[[website](http://thegenius.sourceforge.net/)] |
 | [Vindinium](http://vind-legacy.thegrid.red/jh8l8yi1) | Multi-player turn based on roguelike dungeon game - AI programming challenge. | 28 programming languages | \[[GitHub](https://github.com/ornicar/vindinium)], \[[Python](https://pythonhosted.org/vindinium/)] |
