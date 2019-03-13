@@ -1,273 +1,85 @@
-# Game Datasets
+# :video_game: Game Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This [GitHub](https://github.com/leomaurodesenv/game-datasets) repository serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence (AI)** in digital games!   
+This repository serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence** applied in digital games! Here you will find a series of tools and materials available to build your _database_.   
 
-Here you will find a series of tools and materials available to build your _database_.   
+**Contributing**   
 
-**Features**: 
-- _Pixel Dungeon_, _Ms Pac-Man_, and _Platformer AI_ in [Open-Source Game](#open-source-game).   
+Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".   
    
 ---
-   
-## Summary
+### Contents
 
-- [Open-Source Game](#open-source-game)
-- [Online API](#online-api)
+- [API](#api)
+- [Artificial Intelligence Games](#artificial-intelligence-games)
 - [Dataset](#dataset)
-- [Web](#web)
-   
----
-   
-## Open-Source Game
+- [Web Games](#web-games)
+- [Miscellaneous](#miscellaneous)
 
-This section brings a list of open-source games.   
-- [Libre Game Wiki](https://libregamewiki.org/Main_Page): the free gaming encyclopedia.
-- [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto): a list of open-source games.
-- [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/): is a list with historical roguelike games. \[[reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/)]
-   
-<table>
-<thead>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Language</th>
-        <th>Links</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>Dungeon and Cave Generation</td>
-        <td>Constructive Generation Methods for Dungeons and Levels.</td>
-        <td>Processing</td>
-        <td>[<a href="https://github.com/sentientdesigns/constructive">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.daimonin.org/">Daimonin</a></td>
-        <td>Free isometric real-time MMORPG. 2/3D Graphics and sound effects.</td>
-        <td>-</td>
-        <td>[<a href="https://sourceforge.net/projects/daimonin/">SourceForge</a>]</td>
-    </tr>
-    <tr>
-        <td>Deliantra</td>
-        <td>MMORPG and adventure game, much similar in style to nethack and moria. It is fully graphical and runs in realtime and set in a medieval environment.</td>
-        <td>-</td>
-        <td>[<a href="http://www.deliantra.net/">website</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://crawl.develz.org/">Dungeon Crawl: Stone Soup</a></td>
-        <td>A roguelike adventure through dungeons filled with dangerous monsters in a quest to find the mystifyingly fabulous Orb of Zot.</td>
-        <td>C++</td>
-        <td>[<a href="https://github.com/crawl/crawl">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td>FlightGear Flight Simulator</td>
-        <td>Flight simulator project is an open-source, multi-platform, cooperative flight simulator development project.</td>
-        <td>C++</td>
-        <td>[<a href="http://home.flightgear.org/">website</a>]</td>
-    </tr>
-    <tr>
-        <td>irrlamb</td>
-        <td>Puzzle game with physics effects in 3D.</td>
-        <td>C++</td>
-        <td>[<a href="https://github.com/jazztickets/irrlamb">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://www.microsoft.com/en-us/research/project/project-malmo/">Malmo</a></td>
-        <td>A sophisticated AI experimentation platform built on top of Minecraft.</td>
-        <td>Python, C++, Java, C#</td>
-        <td>[<a href="https://github.com/Microsoft/malmo">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://sites.google.com/site/micrortsaicompetition/home">microRTS</a></td>
-        <td>A small implementation of an RTS game, designed to perform AI research.</td>
-        <td>Java</td>
-        <td>[<a href="https://github.com/santiontanon/microrts">GitHub</a>], [<a href="https://github.com/rubensolv/MicroRTS">BR</a>]</td>
-    </tr>
-    <tr>
-        <td>Ms Pac-Man</td>
-        <td>Traditional Pac-Man game for AI competitions.</td>
-        <td>Java</td>
-        <td>[<a href="http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip">download</a>]</td>
-    </tr>
-    <tr>
-        <td>OpenLieroX</td>
-        <td>The open source clone of the famous Liero (the realtime Worms) game.</td>
-        <td>-</td>
-        <td>[<a href="http://www.openlierox.net/">website</a>]</td>
-    </tr>
-    <tr>
-        <td>Pixel Dungeon</td>
-        <td>Traditional roguelike game with pixel-art graphics and simple interface.</td>
-        <td>Java (Android)</td>
-        <td>[<a href="https://github.com/watabou/pixel-dungeon">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td>Platformer AI</td>
-        <td>A framework of the traditional Super Mario Bros for gameplay, learning, and level generation.</td>
-        <td>Java</td>
-        <td>[<a href="http://www.marioai.org/">website</a>]</td>
-    </tr>
-    <tr>
-        <td>qengine</td>
-        <td>Retro game engine for developers that enjoy creating games like Doom.</td>
-        <td>C</td>
-        <td>[<a href="https://github.com/klaussilveira/qengine">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td>Robocode</td>
-        <td>Robot battle tank competition.</td>
-        <td>Java, .NET</td>
-        <td>[<a href="https://robocode.sourceforge.io/">website</a>]</td>
-    </tr>
-    <tr>
-        <td>The Genius</td>
-        <td>Chess engine including artificial intelligence, user interface and several features.</td>
-        <td>C++</td>
-        <td>[<a href="http://thegenius.sourceforge.net/">website</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="http://vind-legacy.thegrid.red/jh8l8yi1">Vindinium</a></td>
-        <td>Multi-player turn based on roguelike dungeon game - AI programming challenge.</td>
-        <td>28 programming languages</td>
-        <td>[<a href="https://github.com/ornicar/vindinium">GitHub</a>], [<a href="https://pythonhosted.org/vindinium/">Python</a>]</td>
-    </tr>
-</tbody>
-</table>
-   
----
-   
-## Online API
+---   
+## API
 
-Some open-source API to crawler game contents.   
-   
-<table>
-<thead>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Language</th>
-        <th>Links</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>OpenDota</td>
-        <td>Open source Dota 2 data platform.</td>
-        <td>REST</td>
-        <td>[<a href="https://www.opendota.com/">website</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://supermariomakerbookmark.nintendo.net">Super Mario Maker</a></td>
-        <td>User and Course information about the game Super Mario Maker.</td>
-        <td>NodeJS</td>
-        <td>[<a href="https://github.com/leomaurodesenv/smm-maker-profile">User</a>], [<a href="https://github.com/leomaurodesenv/smm-course-search">Course</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://thegamesdb.net/">TGDB</a></td>
-        <td>Overview and general information about many games from different platforms and consoles.</td>
-        <td>REST</td>
-        <td>[<a href="https://github.https://www.opendota.com/com/TheGamesDB/TheGamesDB">GitHub</a>]</td>
-    </tr>
-</tbody>
-</table>
-   
+API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).   
+In this section, we present a list with open-source API to access games data.   
+
+- [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
+- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Package to searching courses from Super Mario Maker.
+- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Package to reading courses from Super Mario Maker saves.
+- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Package to fetching the user profile from Super Mario Maker.
+- [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - Overview and general information about many games from different platforms and consoles.
+
+---   
+## Artificial Intelligence Games
+
+- [Daimonin](https://www.daimonin.org/) - Isometric real-time MMORPG. 2/3D Graphics and sound effects.
+- [Deliantra](http://www.deliantra.net/) - Adventure game, in realtime and set in a medieval environment.
+- [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
+- [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure through dungeons filled with dangerous monsters.
+- [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator, multi-platform, cooperative flight simulator.
+- [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
+- [Malmo](https://github.com/Microsoft/malmo) - Sophisticated AI experimentation platform built on top of Minecraft.
+- [microRTS](https://github.com/santiontanon/microrts) - Small implementation of an RTS game, designed to perform AI research. [PT-BR](https://github.com/rubensolv/MicroRTS)
+- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Traditional Pac-Man game for AI competitions.
+- [OpenLieroX](http://www.openlierox.net/) - Clone of the famous Liero (the realtime Worms) game.
+- [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+- [Platformer AI](http://www.marioai.org/) - Framework of Super Mario Bros for gameplay, learning, and level generation.
+- [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like Doom.
+- [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
+- [The Genius](http://thegenius.sourceforge.net/) - Chess engine including artificial intelligence, user interface and several features.
+- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/)
+
 ---
-   
 ## Dataset
 
-Some public datasets.   
-   
-<table>
-<thead>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Links</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td>Dota 2 Games (UCI)</td>
-        <td>Dota 2 matches results.</td>
-        <td>[<a href="https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results">UCI</a>]</td>
-    </tr>
-    <tr>
-        <td>OpenDota</td>
-        <td>Continuous database of Dota games.</td>
-        <td>[<a href="https://blog.opendota.com/2017/03/24/datadump2/">download</a>]</td>
-    </tr>
-    <tr>
-        <td>StarCraft Brood War Data Mining</td>
-        <td>StarCraft matches, videos, etc.</td>
-        <td>[<a href="https://github.com/TorchCraft/StarData">GitHub</a>], [<a href="http://nova.wolfwork.com/dataMining.html">website</a>]</td>
-    </tr>
-    <tr>
-        <td>StarCraft 2 (UCI)</td>
-        <td>Data Stream of matches in StarCraft game.</td>
-        <td>[<a href="https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset">UCI</a>], [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0075129">Paper</a>]</td>
-    </tr>
-</tbody>
-</table>
-   
----
-   
-## Web
+- [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Dota 2 matches results.
+- [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 games.
+- [StarCraft Brood War Data Mining](https://github.com/TorchCraft/StarData) - StarCraft matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html)
+- [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data Stream of StarCraft matches. [Paper](https://doi.org/10.1371/journal.pone.0075129)
 
-Some traditional games in JavaScript, located in the `sources/` folder.   
-- [Open HTML5 Games](https://github.com/OpenHTML5Games): JavaScript and HTML5 games \[[Play](https://openhtml5games.com/)\].   
-   
-<table class="table table-striped table-bordered">
-<thead>
-    <tr>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Languange</th>
-        <th>Links</th>
-    </tr>
-</thead>
-<tbody>
-    <tr>
-        <td><a href="http://games.leonardomauro.com/digger/">Digger</a></td>
-        <td>The player is placed in an underground maze and can dig horizontal and vertical tunnels.</td>
-        <td>JavaScript</td>
-        <td>[<a href="https://github.com/leomaurodesenv/game-datasets/tree/master/sources/digger">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="http://duckhuntjs.com/">Duck Hunt</a></td>
-        <td>Shooting game in ducks.</td>
-        <td>NodeJS</td>
-        <td>[<a href="https://github.com/MattSurabian/DuckHunt-JS">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html">Infinite Mario Bros</a></td>
-        <td>Infinite courses maps of Super Mario Bros.</td>
-        <td>JavaScript/HTML5</td>
-        <td>[<a href="https://github.com/leomaurodesenv/game-datasets/tree/master/sources/infinitemariobros">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="http://arcade.lostdecadegames.com/onslaught-arena/">Onslaught! Arena</a></td>
-        <td>Fight off hordes of classical medieval monsters!</td>
-        <td>JavaScript/Chrome Plugin</td>
-        <td>[<a href="https://github.com/lostdecade/onslaught_arena">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="http://games.leonardomauro.com/starshipsorades/">Starship</a></td>
-        <td>Traditional starship game.</td>
-        <td>JavaScript</td>
-        <td>[<a href="https://github.com/leomaurodesenv/game-datasets/tree/master/sources/starshipsorades">GitHub</a>]</td>
-    </tr>
-    <tr>
-        <td><a href="http://pubby.github.io/webnes/index_app.html">WebNES</a></td>
-        <td>Play rooms of NES in web browser.</td>
-        <td>Javascript</td>
-        <td>[<a href="https://github.com/pubby">GitHub</a>]</td>
-    </tr>
-</tbody>
-</table>
-   
 ---
-   
+## Web Games
+
+- [Digger](https://github.com/lutzroeder/digger)- Boulderdash. [Play](http://games.leonardomauro.com/digger/)
+- [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/)
+- [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) - Infinite courses maps of Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html)
+- [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classical medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/)
+- [Starship](http://maettig.com/code/canvas/starship-sorades-13k.zip) - Traditional starship game. [Play](http://games.leonardomauro.com/starshipsorades/)
+ - [WebNES](https://github.com/pubby) - Play rooms of NES in web browser.[Play](http://pubby.github.io/webnes/index_app.html)
+
+---
+## Miscellaneous
+
+- [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/)
+- [Awesome ACG](https://github.com/soruly/awesome-acg) - List of technologies related to Anime, Comic and Games.
+- [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - List of games that can teach you how to learn a programming language.
+- [Games on GitHub](https://github.com/leereilly/games) - List of popular videos games hosted in GitHub.
+- [Libre Game Wiki](https://libregamewiki.org/Main_Page) - The free gaming encyclopedia.
+- [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/)
+- [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - List of open-source games (PT-BR).
+
+---
 ### Also look ~
-- Created by Leonardo Mauro (leo.mauro.desenv@gmail.com)
-- Git: [leomaurodesenv](https://github.com/leomaurodesenv/)
-- Site: [Portfolio](http://leonardomauro.com/portfolio/)
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+- License: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+- Create by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
