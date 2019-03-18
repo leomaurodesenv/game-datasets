@@ -11,6 +11,7 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
 - [API](#api)
 - [Artificial Intelligence Games](#artificial-intelligence-games)
 - [Dataset](#dataset)
+  - [Related](#related)
 - [Web Games](#web-games)
 - [Miscellaneous](#miscellaneous)
 
@@ -18,12 +19,15 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
 ## API
 
 API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).  
-In this section, we present a list with open-source API to access games data.   
 
+- [Battlefield 4 Stats](http://bf4stats.com/) - See stats, rankings, and progression of a player from Battlefield 4.
+- [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
-- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Package to searching courses from Super Mario Maker.
-- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Package to reading courses from Super Mario Maker saves.
-- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Package to fetching the user profile from Super Mario Maker.
+- [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
+- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker.
+- [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
+- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker.
+- [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query information of the Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - Overview and general information about many games from different platforms and consoles.
 
 ---
@@ -49,10 +53,28 @@ In this section, we present a list with open-source API to access games data.
 ---
 ## Dataset
 
+- [20 Years of Games](https://www.kaggle.com/egrinstein/20-years-of-games) - Review data from [IGN](ign.com).
+- [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from 5,000 board games.
+- [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings for around 94,000 among board games from [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Dota 2 matches results.
+- [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes from FIFA 18.
+- [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of Hearthstone cards.
 - [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 games.
+- [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of Overwatch matches.
+- [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Data contains stats of 59,000 players from Path of Exile League.
+- [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia of Pokémon GO.
+- [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
+- [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - PlayerUnknown Battleground's matches.
 - [StarCraft Brood War Data Mining](https://github.com/TorchCraft/StarData) - StarCraft matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html).
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data Stream of StarCraft matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
+
+
+### Related
+
+- [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from 10k Play Store apps.
+- [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data since 2000  from [metacritc](https://www.metacritic.com).
+- [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from more than 16,500 games.
+- [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
 
 ---
 ## Web Games
