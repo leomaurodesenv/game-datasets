@@ -86,7 +86,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - 346,242 decks.
-- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details since 2015.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data from 130k players.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - Cards data.
@@ -104,6 +103,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - 151 Pokemon and battle stats.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - Pokemon appear in PokemonGo over time.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
+- [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data from 250,000 games of AI vs AI in Quackle game.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in over 500 professional-level.
 - [StarCraft Brood War Data Mining](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html).
@@ -122,6 +122,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 - [20 Years of Games](https://www.kaggle.com/egrinstein/20-years-of-games) - Review data from [IGN](ign.com).
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from 10k Play Store apps.
+- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details since 2015.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data since 2000  from [metacritc](https://www.metacritic.com).
 - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) - 200k steam user interactions.
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video Games released.
