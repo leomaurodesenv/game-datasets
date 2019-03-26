@@ -29,6 +29,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker.
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 - [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker.
+- [Steam Database](https://github.com/SteamDatabase) - Serie of tools to Steam data.
+- [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query information of the Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - Overview and general information about many games from different platforms and consoles.
 
@@ -49,7 +51,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like Doom.
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine including artificial intelligence, user interface and several features.
-- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
+- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Extra](https://pythonhosted.org/vindinium/).
 
 ### Mobile
 
@@ -84,6 +86,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - 346,242 decks.
+- [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details since 2015.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data from 130k players.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - Cards data.
@@ -107,6 +110,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data Stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the screen-fixations from screen movements of replay.
+- [Steam Game Data](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Data on more than 800 pokemon from all 7 generations.
@@ -124,6 +128,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from more than 16,500 games.
 - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
 - [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on JeuxVideo.com.
+- [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue estimates for 2017.
 
 ---
 ## Miscellaneous
