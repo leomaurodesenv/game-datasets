@@ -21,23 +21,29 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
 
 API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).  
 
-- [Battlefield 4 Stats](http://bf4stats.com/) - See stats, rankings, and progression of a player.
+- [Battlefield 4 Stats](http://bf4stats.com/) - Stats, rankings, and progression of a player.
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
+- [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
+- [IGDB](https://www.igdb.com/api) - General information of games of any platform.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
+- [PandaScore](https://pandascore.co/) - Realtime eSports data.
 - [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
-- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker.
+- [Riot Developer](https://developer.riotgames.com/) - Active games, match history, ranked statistics and so on.
+- [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker game.
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
-- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker.
-- [Steam Database](https://github.com/SteamDatabase) - Serie of tools to Steam data.
+- [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
+- [Steam Database](https://github.com/SteamDatabase) - Serie of tools to Steam data. [Website](https://steamdb.info/).
 - [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
-- [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query information of the Steam.
-- [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - Overview and general information about many games from different platforms and consoles.
+- [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
+- [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information about many games from different platforms and consoles. [Website](https://thegamesdb.net/).
+- [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
+- [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages from Xbox LIVE. [Website](https://xboxapi.com/).
 
 ---
 ## Artificial Intelligence Games
 
-- [Daimonin](https://www.daimonin.org/) - Isometric real-time MMORPG. 2/3D Graphics and sound effects.
+- [Daimonin](https://www.daimonin.org/) - Isometric real-time MMORPG.
 - [Deliantra](http://www.deliantra.net/) - Adventure game, in realtime and set in a medieval environment.
 - [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure through dungeons filled with dangerous monsters.
@@ -51,15 +57,16 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like Doom.
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine including artificial intelligence, user interface and several features.
-- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Extra](https://pythonhosted.org/vindinium/).
+- [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
 
 ### Mobile
 
 - [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface.
+- [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon, more items and challenges.
 
 ### Web
 
-- [Digger](https://github.com/lutzroeder/digger) - Boulderdash. [Play](http://games.leonardomauro.com/digger/).
+- [Digger](https://github.com/lutzroeder/digger) - Boulderdash game. [Play](http://games.leonardomauro.com/digger/).
 - [Duck Hunt](https://github.com/MattSurabian/DuckHunt-JS) - Shooting game in ducks. [Play](http://duckhuntjs.com/).
 - [Infinite Mario Bros](https://github.com/robertkleffner/mariohtml5) - Infinite courses maps of Super Mario Bros. [Play](https://openhtml5games.github.io/games-mirror/dist/mariohtml5/main.html).
 - [Onslaught! Arena](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classical medieval monsters. [Play](http://arcade.lostdecadegames.com/onslaught-arena/).
@@ -73,14 +80,16 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for 32 teams participating in the World Cup.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from 5,000 board games.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings for around 94,000 among board games from [BoardGameGeek](https://www.boardgamegeek.com/).
-- [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - 30k+ playthroughs.
+- [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - 30k+ playthroughs of board games.
+- [Caltech Games](http://www.vision.caltech.edu/malaa/datasets/caltech-games/) - Game covers.
 - [Clash of Clans app store user comments](https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments) - 50,000 user reviews from Google Play and iTunes App Store.
 - [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) - Cards data.
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - 15k+ players, 50+ Attributes per player.
-- [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage/Grenade entries on over 410k rounds played.
-- [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data.
+- [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) - 716M+ games and 1M+ years of playtime.
+- [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage/grenade entries on over 410k rounds played.
+- [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
 - [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) - Monsters data from Warcraft III: Reign of Chaos & The Frozen Throne.
-- [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Matches results.
+- [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Dota 2 matches results.
 - [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes.
 - [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
@@ -134,13 +143,16 @@ API is _"a set of functions and procedures allowing the creation of applications
 ---
 ## Miscellaneous
 
+- [Academic Torrents](http://academictorrents.com/) - Distributed system for sharing enormous datasets.
 - [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
-- [Awesome ACG](https://github.com/soruly/awesome-acg) - List of technologies related to Anime, Comic and Games.
+- [Awesome ACG](https://github.com/soruly/awesome-acg) - List of technologies related to anime, comic and games.
+- [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - List of games that can teach you how to learn a programming language.
 - [Games on GitHub](https://github.com/leereilly/games) - List of popular videos games hosted in GitHub.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - The free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - List of open-source games (PT-BR).
+- [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Yahoo public datasets.
 
 ---
 ## License
