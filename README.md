@@ -38,26 +38,39 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information about many games from different platforms and consoles. [Website](https://thegamesdb.net/).
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
-- [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages from Xbox LIVE. [Website](https://xboxapi.com/).
+- [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages from Xbox LIVE. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
 
 ---
 ## Artificial Intelligence Games
 
+- [AI Birds](http://aibirds.org) - Angry Birds AI competition.
+- [Angry Bots](http://www.aigameresearch.org/demo-item/pcg-angry-bots/) - Top-down shooter game that pits a lone soldier against swarms of security robots defending each map.
 - [Daimonin](https://www.daimonin.org/) - Isometric real-time MMORPG.
 - [Deliantra](http://www.deliantra.net/) - Adventure game, in realtime and set in a medieval environment.
 - [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure through dungeons filled with dangerous monsters.
+- [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - AI controller for a fighting game.
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator, multi-platform, cooperative flight simulator.
+- [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Predict players' churn or purchase behaviors from game log data.
+- [General Video Game AI](http://www.gvgai.net/) - Creating controllers for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
+- [Hanabi Competition](http://hanabi.aiclash.com/) - Hanabi, it is a board game.
+- [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Hearthstone game, it is a card game.
+- [Infinite Mario Bros](http://www.marioai.org/) - Mario AI competition, Platformer AI antecedent. [Previous](http://julian.togelius.com/mariocompetition2009/).
 - [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 - [Malmo](https://github.com/Microsoft/malmo) - Sophisticated AI experimentation platform built on top of Minecraft.
 - [microRTS](https://github.com/santiontanon/microrts) - Small implementation of an RTS game, designed to perform AI research. [PT-BR](https://github.com/rubensolv/MicroRTS).
-- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Traditional Pac-Man game for AI competitions.
+- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Traditional Pac-Man game for AI competitions. [Website](www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) - Clone of the famous Liero (the realtime Worms) game.
-- [Platformer AI](https://sites.google.com/site/platformersai/LevelGeneration) - Framework of Super Mario Bros for gameplay, learning, and level generation.
+- [Platformer AI](https://sites.google.com/site/platformersai/) - Framework of Super Mario Bros for gameplay, learning, and level generation.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like Doom.
+- [Retro Contest](https://github.com/openai/retro) - Reinforcement learning competition on 30 SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
+- [Showdown AI Competition](https://github.com/scotchkorean27/showdownaiclient) - Challenge other players to Pokemon turn-based combat. [Website](http://game.engineering.nyu.edu/showdown-ai-competition/), [paper](http://game.engineering.nyu.edu/wp-content/uploads/2017/02/CIG_2017_paper_87-1.pdf).
+- [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - Developing bots for StarCraft grame.
+- [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - Autonomous agent for an arbitrary text-adventure game. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine including artificial intelligence, user interface and several features.
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
+- [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - Framework for reinforcement learning and image processing. [Website](http://vizdoom.cs.put.edu.pl/).
 
 ### Mobile
 
@@ -86,6 +99,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) - Cards data.
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - 15k+ players, 50+ Attributes per player.
 - [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) - 716M+ games and 1M+ years of playtime.
+- [Connect-4 Data Set](https://archive.ics.uci.edu/ml/datasets/Connect-4) - Connect-4 matches.
 - [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage/grenade entries on over 410k rounds played.
 - [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
 - [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) - Monsters data from Warcraft III: Reign of Chaos & The Frozen Throne.
@@ -105,6 +119,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of matches.
 - [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Data contains stats of 59,000 players.
+- [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Multiple modalities of user data of Super Mario Bros players. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/alopez247/pokemon) - Pokémon stats until generation 6.
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia.
@@ -124,7 +139,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/rounakbanik/pokemon) - Data on more than 800 pokemon from all 7 generations.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
-- [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records that detail information about player characters.
+- [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records that detail information about player characters. [Website](http://mmnet.iis.sinica.edu.tw/dl/wowah/).
 - [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
 
 ### Related
