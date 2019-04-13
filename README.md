@@ -153,6 +153,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from more than 16,500 games.
 - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
 - [Video Games Review](https://www.kaggle.com/launay10christian/video-games-review) - Reviews on JeuxVideo.com.
+- [Video Games Sales 2019](https://www.kaggle.com/ashaheedq/video-games-sales-2019) - Sales and Scores for more than 55,000 games.
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue estimates for 2017.
 
 ---
