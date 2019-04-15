@@ -13,9 +13,9 @@ To stay on the list, projects are suggested to be related to:
 - Data Mining
 - Artificial Intelligence
 - Either:
-    - free to use, or
-    - open source (not limited to GitHub), or
-    - has a documentated machine readable interface (e.g. database)
+  - free to use, or
+  - open source (not limited to GitHub), or
+  - has a documentated machine readable interface (e.g. database)
 
 It's hard to define what is related and what is not. When in doubt, just open an issue to discuss.
 
