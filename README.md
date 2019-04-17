@@ -130,10 +130,10 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data from 250,000 games of AI vs AI in Quackle game.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in over 500 professional-level.
-- [StarCraft Brood War Data Mining](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html).
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data Stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the screen-fixations from screen movements of replay.
+- [StarData](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
