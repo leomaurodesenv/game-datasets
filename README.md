@@ -21,15 +21,17 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
 
 API is _"a set of functions and procedures allowing the creation of applications that access the features or data of an operating system, application, or other service"_ (Google).  
 
+- [Battle.net](https://develop.battle.net/) - Collection of games developed by [Blizzard](https://www.blizzard.com).
 - [Battlefield 4 Stats](http://bf4stats.com/) - Stats, rankings, and progression of a player.
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
+- [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) - Science fiction massively multiplayer online game.
 - [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
 - [IGDB](https://www.igdb.com/api) - General information of games of any platform.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 - [PandaScore](https://pandascore.co/) - Realtime eSports data.
 - [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
-- [Riot Developer](https://developer.riotgames.com/) - Active games, match history, ranked statistics and so on.
+- [Riot Games](https://developer.riotgames.com/) - Active games, match history, ranked statistics and so on.
 - [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker game.
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 - [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
@@ -59,9 +61,11 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 - [Malmo](https://github.com/Microsoft/malmo) - Sophisticated AI experimentation platform built on top of Minecraft.
 - [microRTS](https://github.com/santiontanon/microrts) - Small implementation of an RTS game, designed to perform AI research. [PT-BR](https://github.com/rubensolv/MicroRTS).
+- [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Traditional Pac-Man game for AI competitions. [Website](www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) - Clone of the famous Liero (the realtime Worms) game.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Framework of Super Mario Bros for gameplay, learning, and level generation.
+- [polyworld](https://github.com/polyworld/polyworld) - Artificial life system.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine for developers that enjoy creating games like Doom.
 - [Retro Contest](https://github.com/openai/retro) - Reinforcement learning competition on 30 SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
 - [Robocode](https://robocode.sourceforge.io/) - Robot battle tank competition.
@@ -103,9 +107,11 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage/grenade entries on over 410k rounds played.
 - [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
 - [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) - Monsters data from Warcraft III: Reign of Chaos & The Frozen Throne.
+- [dnddata](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
 - [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Dota 2 matches results.
 - [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes.
 - [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
+- [Fortnite Statistics_80 Games](https://data.world/kreynol3/fortnite-statistics80-games) - Collection of 88 end game Fortnite Statistics.
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - 346,242 decks.
@@ -119,11 +125,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of matches.
 - [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Data contains stats of 59,000 players.
+- [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games and gaming.
 - [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Multiple modalities of user data of Super Mario Bros players. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/alopez247/pokemon) - Pokémon stats until generation 6.
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
+- [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of 500 wonder trades in Pokemon Moon version.
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - 151 Pokemon and battle stats.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - Pokemon appear in PokemonGo over time.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
@@ -163,11 +171,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - List of technologies related to anime, comic and games.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
+- [data.world](https://data.world) - Datasets.
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - List of games that can teach you how to learn a programming language.
 - [Games on GitHub](https://github.com/leereilly/games) - List of popular videos games hosted in GitHub.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - The free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - List of open-source games (PT-BR).
+- [UCI](https://archive.ics.uci.edu/) - +400 datasets as a service to the machine learning community.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Yahoo public datasets.
 
 ---
