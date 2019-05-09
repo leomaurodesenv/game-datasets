@@ -154,10 +154,11 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 - [20 Years of Games](https://www.kaggle.com/egrinstein/20-years-of-games) - Review data from [IGN](ign.com).
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from 10k Play Store apps.
-- [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - 17 000+ rows of video games data from [JeuxVideo.com](http://www.jeuxvideo.com/).
+- [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - 17 000+ rows of video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details since 2015.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data since 2000  from [metacritc](https://www.metacritic.com).
 - [Steam Video Games](https://www.kaggle.com/tamber/steam-video-games) - 200k steam user interactions.
+- [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) - 12 000 rows of game data from [Vandal.com](https://vandal.elespanol.com/).
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video Games released.
 - [Video Game Sales](https://www.kaggle.com/gregorut/videogamesales) - Sales data from more than 16,500 games.
 - [Video Game Sales with Ratings](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings) - Video game sales and rating from [metacritc](https://www.metacritic.com).
