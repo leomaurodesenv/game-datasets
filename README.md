@@ -1,11 +1,23 @@
 # :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository serves as a guide for anyone who wants to work with **Data Mining** or **Artificial Intelligence** applied in digital games! Here you will find a series of tools and materials available to build your _database_.   
+In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals. _Russell et. al (2016)_   
 
-**Contributing**   
+Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets. _Han (2011)_  
 
-Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".   
+This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.  
+
+
+**References**  
+
+Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.  
+
+Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.  
+
+**Contributing**  
+
+Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".  
    
+---
 ## Contents
 
 - [API](#api)
