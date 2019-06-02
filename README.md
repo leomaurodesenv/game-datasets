@@ -189,9 +189,12 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [data.world](https://data.world) - Datasets.
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
 - [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
+- [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
+- [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
+- [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
 
