@@ -1,8 +1,8 @@
 # :video_game: Awesome Game Datasets [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals. _Russell et. al (2016)_   
+In computer science, Artificial Intelligence (AI) is intelligence demonstrated by machines. Its definition, AI research as the study of "intelligent agents": any device that perceives its environment and takes actions that achieving its goals _Russell et. al (2016)_.   
 
-Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets. _Han (2011)_  
+Withal, Data Mining (DM) is the process of discovering patterns in data sets (or datasets) involving methods of machine learning, statistics, and database systems; DM focus on extract the information of datasets _Han (2011)_.  
 
 This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.  
 
@@ -12,6 +12,9 @@ This repository serves as a guide for anyone who wants to work with **Artificial
 Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.  
 
 Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.  
+
+Yannakakis, G. N., Togelius, J. (2018). _Artificial Intelligence and Games_. Springer.  
+
 
 **Contributing**  
 
@@ -85,6 +88,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [StarCraft AI Competition](https://sites.google.com/site/starcraftaic/) - StarCraft game competition.
 - [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine.
+- [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
 - [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/).
 
