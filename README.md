@@ -68,7 +68,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure.
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator.
-- [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior.
+- [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
 - [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
 - [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Card game competition.
@@ -77,6 +77,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 - [microRTS](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](http://minidungeons.com/) - Procedural dungeon-like game.
+- [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition. [Website](www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
