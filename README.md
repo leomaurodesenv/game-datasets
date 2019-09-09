@@ -80,6 +80,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition. [Website](www.pacmanvghosts.co.uk).
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
+- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld](https://github.com/polyworld/polyworld) - Artificial life system.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine.
@@ -90,6 +91,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Text-Based Adventure AI Competition](https://github.com/Atkrye/IEEE-CIG-Text-Adventurer-Competition) - Text-adventure game competition. [Website](http://atkrye.github.io/IEEE-CIG-Text-Adventurer-Competition/).
 - [The Genius](http://thegenius.sourceforge.net/) - Chess engine.
 - [The Open Racing Car Simulator](http://torcs.sourceforge.net/) - Car racing simulator.
+- [Vegan on a Desert Island](https://gitlab.com/voadi/voadi) - Adventure game on island survival.
+- [veloren](https://gitlab.com/veloren/veloren) - Sandbox game. [Website](https://veloren.net/).
 - [Vindinium](https://github.com/leomaurodesenv/vindinium) - Multi-player turn based on roguelike competition. [Documentation](https://pythonhosted.org/vindinium/).
 - [Visual Doom AI Competition](https://github.com/mwydmuch/ViZDoom) - Doom game competition. [Website](http://vizdoom.cs.put.edu.pl/).
 
@@ -192,6 +195,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
 - [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
+- [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
 - [data.world](https://data.world) - Datasets.
 - [datasets-games](https://github.com/cncplyr/datasets-games) - Datasets from a variety of games.
