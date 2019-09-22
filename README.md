@@ -137,6 +137,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [GOSU.AI Dota 2 Game Chats](https://www.kaggle.com/romovpa/gosuai-dota-2-game-chats) - Chats from matches replays.
 - [GTA-3D Dataset](https://github.com/oscarmcnulty/gta-3d-dataset) - 2D and 3D images from Grand Theft Auto 5 game.
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
+- [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) - Units of a game.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data.
