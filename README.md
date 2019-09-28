@@ -42,6 +42,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [EVE Online](https://www.programmableweb.com/api/eve-online-crest-carbon-restful) - Science fiction massively multiplayer online game.
 - [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
 - [IGDB](https://www.igdb.com/api) - General information of games from any platform.
+- [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 - [PandaScore](https://pandascore.co/) - Realtime eSports data.
@@ -194,7 +195,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
-- [ArchiveRL](https://archive.org/download/ArchiveRL.7z/ArchiveRL%20v1.0.zip/) - Historical roguelike games. [reddit](https://www.reddit.com/r/roguelikes/comments/a3x47b/archiverl_building_the_ultimate_roguelike_archive/).
 - [Awesome ACG](https://github.com/soruly/awesome-acg) - Technologies related to anime, comic and games.
 - [Awesome Gamedev](https://github.com/Calinou/awesome-gamedev) - Collection of open-source games.
 - [AWS Datasets](https://aws.amazon.com/datasets/) - Amazon public datasets.
