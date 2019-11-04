@@ -116,6 +116,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
+- [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
