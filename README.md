@@ -19,6 +19,7 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
   - [Web](#web)
 - [Dataset](#dataset)
   - [Related](#related)
+- [Books](#Books)
 - [Miscellaneous](#miscellaneous)
 
 ---
