@@ -6,16 +6,6 @@ Withal, Data Mining (DM) is the process of discovering patterns in data sets (or
 
 This repository serves as a guide for anyone who wants to work with **Artificial Intelligence** or **Data Mining** applied in digital games! Here you will find a series of datasets, tools and materials available to build your _application_ or _dataset_.  
 
-
-**References**  
-
-Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.  
-
-Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.  
-
-Yannakakis, G. N., Togelius, J. (2018). _Artificial Intelligence and Games_. Springer.  
-
-
 **Contributing**  
 
 Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".  
@@ -212,6 +202,17 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
+
+---
+
+## Books
+- Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
+- Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
+- Yannakakis, G. N., Togelius, J. (2018). _Artificial Intelligence and Games_. Springer.
+- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game Analytics: Maximizing the Value of Player Data_. Sprigner
+- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). Games User Research. Oxford
+- Loh, A. Sheng, Y. Ifenthaler, D. (2015). Serious Games Analytics: Methodologies for Performance Measurement, Assessment, and Improvement. Springer
+- Hennig-Thurau, T. Houston, M. (2018). Entertainment Science: Data Analytics and Practical Theory for Movies, Games, Music and Books. Springer
 
 ---
 ## License
