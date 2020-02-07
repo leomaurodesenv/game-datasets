@@ -49,6 +49,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
 - [whatoplay](https://whatoplay.com) - game reviews and ratings aggregator, and a recommender for discovering games
+- [opencritic](https://www.opencritic.com) - game reviews aggregator
 
 ---
 
