@@ -35,6 +35,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [IGDB](https://www.igdb.com/api) - General information of games from any platform.
 - [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
+- [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 - [PandaScore](https://pandascore.co/) - Realtime eSports data.
 - [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
@@ -49,7 +50,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
-- [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 
 ---
 
@@ -211,13 +211,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 ---
 
 ## Books
+- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
+- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game analytics: maximizing the value of player data_. Sprigner.
 - Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
+- Hennig-Thurau, T. Houston, M. (2018). _Entertainment science: data analytics and practical theory for movies, games, music and books_. Springer.
+- Loh, A. Sheng, Y. Ifenthaler, D. (2015). _Serious games analytics: methodologies for performance measurement, assessment, and improvement_. Springer.
 - Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
-- Yannakakis, G. N., Togelius, J. (2018). _Artificial Intelligence and Games_. Springer.
-- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game Analytics: Maximizing the Value of Player Data_. Sprigner
-- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). Games User Research. Oxford
-- Loh, A. Sheng, Y. Ifenthaler, D. (2015). Serious Games Analytics: Methodologies for Performance Measurement, Assessment, and Improvement. Springer
-- Hennig-Thurau, T. Houston, M. (2018). Entertainment Science: Data Analytics and Practical Theory for Movies, Games, Music and Books. Springer
+- Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
 
 ---
 ## License
