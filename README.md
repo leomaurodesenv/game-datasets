@@ -48,8 +48,11 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [Website](https://xboxapi.com/), [paper](https://doi.org/10.1145/1943552.1943569).
+- [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
+- [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 
 ---
+
 ## Artificial Intelligence
 
 - [AI Birds](http://aibirds.org) - Artificial intelligence competition.
