@@ -189,6 +189,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue.
 
 ---
+## Market Research
+- [Statista, Video Games](https://www.statista.com/topics/868/video-games/)
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games)
+- [New Zoo](https://newzoo.com/)
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media)
+
+---
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
