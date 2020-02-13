@@ -189,6 +189,13 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [World Top 100 Countries by Game Revenues](https://knoema.com/T100GAMEREVENUES2016/world-top-100-countries-by-game-revenues) - Global game revenue.
 
 ---
+## Market Research
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games) - Strategic Market Researcher
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies
+- [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
+- [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
+
+---
 ## Miscellaneous
 
 - [Academic Torrents](http://academictorrents.com/) - Sharing enormous datasets.
