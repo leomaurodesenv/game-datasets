@@ -190,10 +190,10 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 ---
 ## Market Research
-- [Statista, Video Games](https://www.statista.com/topics/868/video-games/)
-- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games)
-- [New Zoo](https://newzoo.com/)
-- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media)
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games) - Strategic Market Researcher
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies
+- [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
+- [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 
 ---
 ## Miscellaneous
