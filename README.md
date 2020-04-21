@@ -17,9 +17,10 @@ Any suggestions or doubts, please open an "issue". If you want to contribute, re
 - [Artificial Intelligence](#artificial-intelligence)
   - [Mobile](#mobile)
   - [Web](#web)
+- [Books](#books)
 - [Dataset](#dataset)
   - [Related](#related)
-- [Books](#Books)
+- [Market Research](#market-research)
 - [Miscellaneous](#miscellaneous)
 
 ---
@@ -52,7 +53,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 
 ---
-
 ## Artificial Intelligence
 
 - [AI Birds](http://aibirds.org) - Artificial intelligence competition.
@@ -108,16 +108,26 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [WebNES](https://github.com/pubby) - Play rooms of NES in web browser. [Play](http://pubby.github.io/webnes/index_app.html).
 
 ---
+## Books
+- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
+- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game analytics: maximizing the value of player data_. Sprigner.
+- Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
+- Hennig-Thurau, T. Houston, M. (2018). _Entertainment science: data analytics and practical theory for movies, games, music and books_. Springer.
+- Loh, A. Sheng, Y. Ifenthaler, D. (2015). _Serious games analytics: methodologies for performance measurement, assessment, and improvement_. Springer.
+- Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
+- Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
+
+---
 ## Dataset
 
 - [(LoL) League of Legends Ranked Games](https://www.kaggle.com/datasnaek/league-of-legends) - Matches details from ranked games.
 - [17K Mobile Strategy Games](https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games) - Strategy games from the Apple App Store.
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
+- [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - Real-world game data of guessing a number.
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
-- [Caltech Games](http://www.vision.caltech.edu/malaa/datasets/caltech-games/) - Game covers.
 - [Clash of Clans app store user comments](https://www.kaggle.com/moradnejad/clash-of-clans-50000-user-comments) - User reviews from Google Play and iTunes App Store.
 - [Clash royale Dataset](https://www.kaggle.com/swappyk/clash-royale-dataset) - Cards data.
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - Players data.
@@ -137,6 +147,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) - Units of a game.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
+- [League of Legends Diamond Ranked Games (10 min)](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) - Classify ranked games.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - Cards data.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - Historical polling data.
@@ -190,8 +201,8 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 ---
 ## Market Research
-- [Euro-Monitor, Video Games](https://www.euromonitor.com/video-games) - Strategic Market Researcher
-- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies
+- [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
+- [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies.
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 
@@ -214,17 +225,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 - [Yahoo! Datasets](https://webscope.sandbox.yahoo.com/) - Datasets.
-
----
-
-## Books
-- Drachen, A. Mirza-Babaei, P. Nacke, L. (2018). _Games user research_. Oxford.
-- El-Nasr, S. Drachen, A. Canossa, A. (2013). _Game analytics: maximizing the value of player data_. Sprigner.
-- Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
-- Hennig-Thurau, T. Houston, M. (2018). _Entertainment science: data analytics and practical theory for movies, games, music and books_. Springer.
-- Loh, A. Sheng, Y. Ifenthaler, D. (2015). _Serious games analytics: methodologies for performance measurement, assessment, and improvement_. Springer.
-- Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
-- Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
 
 ---
 ## License
