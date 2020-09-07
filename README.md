@@ -94,6 +94,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 ### Mobile
 
+- [Habitica](https://github.com/HabitRPG/habitica-android) - Gamify your life.
 - [Pixel Dungeon](https://github.com/watabou/pixel-dungeon) - Roguelike game.
 - [Shattered Pixel Dungeon](https://github.com/00-Evan/shattered-pixel-dungeon) - Improved Pixel Dungeon.
 
