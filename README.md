@@ -57,6 +57,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 
 - [AI Birds](http://aibirds.org) - Artificial intelligence competition.
 - [Angry Bots](http://www.aigameresearch.org/demo-item/pcg-angry-bots/) - Shooting game against robots.
+- [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 - [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 - [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
 - [Dungeon and Cave Generation](https://github.com/sentientdesigns/constructive) - Constructive generation methods for dungeons and levels.
