@@ -66,6 +66,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [FlightGear Flight Simulator](http://home.flightgear.org/) - Flight simulator.
 - [Game Data Mining Competition](https://cilab.sejong.ac.kr/gdmc2017/) - Competition of prediction of the players' behavior. [Paper](https://arxiv.org/abs/1802.02301).
 - [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
+- [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 - [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 - [Hearthstone AI](https://dockhorn.antares.uberspace.de/wordpress/) - Card game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
@@ -222,6 +223,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Games of Coding](https://github.com/michelpereira/awesome-gamesofcoding) - Games to teach programming language.
 - [Games on GitHub](https://github.com/leereilly/games) - Popular videos games hosted in GitHub.
 - [GitHub Activity Data](https://console.cloud.google.com/marketplace/details/github/github-repos?filter=solution-type:dataset&id=46ee22ab-2ca4-4750-81a7-3ee0f0150dcb) - Activity from open source GitHub repositories.
+- [Gym OpenAI](https://gym.openai.com/) - Game toolkit for reinforcement learning algorithms.
 - [Kaggle](http://kaggle.com/) - Data Science competitions, datasets and projects.
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games. [Play](https://openhtml5games.com/).
