@@ -248,7 +248,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 ---
 ## License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
+<a rel="license" href="LICENSE"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg" /></a>
 
-- License: [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
-- Create by Leonardo Mauro ~ [leomaurodesenv](https://github.com/leomaurodesenv/)
+- License: [Creative Commons Attribution-ShareAlike 4.0 International License](LICENSE)
