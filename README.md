@@ -133,7 +133,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [2018 FIFA World Cup Squads](https://www.kaggle.com/cclayford/2018-fifa-world-cup-squads) - Squad details for teams participating in the World Cup.
 - [380,000 Guesses Dataset - Higher or Lower?](https://www.kaggle.com/sdobson46/higher-or-lower-game) - Real-world game data of guessing a number.
 - [Animal Crossing New Horizons NookPlaza Catalog](https://www.kaggle.com/jessicali9530/animal-crossing-new-horizons-nookplaza-dataset) - Comprehensive inventory of items, villagers, clothing, fish/bugs etc.
-- [(AoE2) Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches. 
+- [Age of Empires 2: Definitive Edition 225.000 Games](https://www.kaggle.com/datasets/nicoelbert/aoe-matchups) - Data about match ups, outcomes and game states over the time in 225.000 AoE2 matches. 
 - [Board Game Data](https://www.kaggle.com/mrpantherson/board-game-data) - Data from board games.
 - [Board Games Dataset](https://www.kaggle.com/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
