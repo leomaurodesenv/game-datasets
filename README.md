@@ -11,10 +11,9 @@ This repository serves as a guide for anyone who wants to work with **Artificial
 Any suggestions or doubts, please open an "issue". If you want to contribute, read [this](CONTRIBUTING.md) and make a "pull request".  
    
 ---
-## Contents
+**Contents**
 
-- [:video_game: Awesome Game Datasets ![Awesome](https://awesome.re)](#video_game-awesome-game-datasets-)
-  - [Contents](#contents)
+- [:video\_game: Awesome Game Datasets ](#video_game-awesome-game-datasets-)
   - [API](#api)
   - [Artificial Intelligence](#artificial-intelligence)
     - [Mobile](#mobile)
@@ -146,10 +145,12 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) - Temporal games data.
 - [Connect-4 Data Set](https://archive.ics.uci.edu/ml/datasets/Connect-4) - Connect-4 game matches.
 - [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage entries on rounds played.
+- [CS:GO Steam Reviews](https://www.kaggle.com/datasets/noahx1/csgo-steam-reviews) - Steam Reviews.
 - [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
 - [Defense of the Ancients](https://www.kaggle.com/raxnamosa/defense-of-the-ancients) - Monsters data from Warcraft III game.
 - [dnddata](https://github.com/oganm/dnddata) - Dataset of Dungeons and Dragons characters.
 - [Dota 2 Games (UCI)](https://archive.ics.uci.edu/ml/datasets/Dota2+Games+Results) - Matches results.
+- [Elden Ring Steam Reviews](https://www.kaggle.com/datasets/noahx1/elden-ring-steam-reviews) - Steam Reviews.
 - [FIFA 18 Complete Player Dataset](https://www.kaggle.com/thec03u5/fifa-18-demo-player-dataset) - Players and their attributes.
 - [Fortnite Statistics_80 Games](https://data.world/kreynol3/fortnite-statistics80-games) - End games statistics.
 - [Fortnite: Battle Royale - Weapon Attributes](https://www.kaggle.com/jruots/fortnite-battle-royale-weapon-attributes) - Stats of the weapons.
@@ -159,10 +160,12 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Hearthstone Cards](https://www.kaggle.com/jeradrose/hearthstone-cards) - Collection of cards.
 - [Heroes of Might and Magic 3 Units](https://www.kaggle.com/daynearthur/heroes-of-might-and-magic-3-units) - Units of a game.
 - [History of Hearthstone](https://www.kaggle.com/romainvincent/history-of-hearthstone) - Collection of decks.
+- [Hogwarts Legacy Reviews](https://www.kaggle.com/datasets/georgescutelnicu/hogwarts-legacy-reviews) - A list of Hogwarts Legacy reviews.
 - [LCS 2017 Summer Split Fantasy Player & Team Stats](https://www.kaggle.com/danielwatabe/lcs-2017-summer-split-fantasy-player-team-stats) - Player and team data.
 - [League of Legends Diamond Ranked Games (10 min)](https://www.kaggle.com/bobbyscience/league-of-legends-diamond-ranked-games-10-min) - Classify ranked games.
 - [League of Legends Summoner Ids and Data - 2016](https://www.kaggle.com/xenogearcap/league2016) - Game data.
 - [Magic The Gathering Cards](https://www.kaggle.com/mylesoneill/magic-the-gathering-cards) - Cards data.
+- [Most Played Games of All Time](https://www.kaggle.com/datasets/faisaljanjua0555/most-played-games-of-all-time) - Steam game stats.
 - [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - Biometric, biographic and basic box score features from 1996 to 2019 season.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - Historical polling data.
 - [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
