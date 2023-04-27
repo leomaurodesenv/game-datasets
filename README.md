@@ -121,6 +121,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - Han, J., Pei, J., Kamber, M. (2011). _Data mining: concepts and techniques_. Elsevier.
 - Hennig-Thurau, T. Houston, M. (2018). _Entertainment science: data analytics and practical theory for movies, games, music and books_. Springer.
 - Loh, A. Sheng, Y. Ifenthaler, D. (2015). _Serious games analytics: methodologies for performance measurement, assessment, and improvement_. Springer.
+- Millington, Ian, Funge, John (2020). _AI for Games, Third Edition. CRC Press.
 - Russell, S. J., Norvig, P. (2016). _Artificial intelligence: a modern approach_. Malaysia; Pearson Education Limited.
 - Yannakakis, G. N., Togelius, J. (2018). _Artificial intelligence and games_. Springer.
 
