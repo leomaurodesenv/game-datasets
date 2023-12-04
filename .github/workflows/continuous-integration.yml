@@ -7,7 +7,10 @@ jobs:
     name: Lint README
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-    - uses: avto-dev/markdown-lint@v1
+    - uses: actions/checkout@v3
+    - uses: actions/setup-python@v4
       with:
-        args: './README.md'
+        python-version: "3.10"
+        cache: "pip" # caching pip dependencies
+    - run: pip install mdformat-gfm mdformat-frontmatter mdformat-footnote
+    - run: mdformat --check README.md
