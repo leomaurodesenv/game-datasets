@@ -1,0 +1,13 @@
+name: "Continuous Integration"
+run-name: Running tests on "${{ github.ref }}" by "${{ github.actor }}"
+on: push
+
+jobs:
+  lint-readme:
+    name: Lint README
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: avto-dev/markdown-lint@v1
+      with:
+        args: './README.md'
