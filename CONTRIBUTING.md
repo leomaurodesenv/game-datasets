@@ -2,7 +2,8 @@
 
 Your contributions are always welcome!
 
----
+______________________________________________________________________
+
 ## Suggested Projects
 
 To stay on the list, projects are suggested to be related to:
@@ -19,7 +20,8 @@ To stay on the list, projects are suggested to be related to:
 
 It's hard to define what is related and what is not. When in doubt, just open an issue to discuss.
 
----
+______________________________________________________________________
+
 ## Formats
 
 - Use the following format: `- [project-name](https://example.com) - Description.`
