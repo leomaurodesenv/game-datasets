@@ -214,6 +214,7 @@ ______________________________________________________________________
 
 ### Related
 
+- [Computer Games Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) - Gaming World: A Comprehensive Computer Games Dataset.
 - [Daily Game Companies Historical Stock Price](https://www.kaggle.com/datasets/psycon/game-companies-historical-stock-price-2022-04) - Game Companies Historical Stock Price 08.2022.
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from Play Store apps.
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
