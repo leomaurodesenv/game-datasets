@@ -220,6 +220,7 @@ ______________________________________________________________________
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
 - [Over 13,000 Steam Games](https://www.kaggle.com/kingburrito666/over-13000-steam-games) - Prices of video games from Steam.
+- [PC Games Sales](https://www.kaggle.com/datasets/khaiid/most-selling-pc-games) - Dataset of the best selling PC games.
 - [PEW-Gaming-Broadband](https://data.world/jshep512/pew-gaming-broadband) - Questions about video games.
 - [Steam Game Data](https://github.com/CraigKelly/steam-data) - Combination of Steam API and Steam Spy.
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
