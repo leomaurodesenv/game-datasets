@@ -14,11 +14,12 @@ jobs:
     - run: mdformat --check README.md
 
   check-links:
+    depends-on: lint-readme
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
     - name: Check links with lychee
-      uses: lycheeverse/lychee-action@v2
+      uses: lycheeverse/lychee-action@v2.7.0
       with:
-        args: --accept 200,204,429 --timeout 20 --exclude-all-private --verbose README.md
-        fail: false
+        args: --verbose './**/*.md'
+        fail: true
