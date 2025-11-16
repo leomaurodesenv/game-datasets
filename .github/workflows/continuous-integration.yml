@@ -1,6 +1,6 @@
 name: "Continuous Integration"
 run-name: Running tests on "${{ github.ref }}" by "${{ github.actor }}"
-on: [push, workflow_dispatch]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   lint-readme:
