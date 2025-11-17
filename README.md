@@ -83,7 +83,7 @@ ______________________________________________________________________
 - [microRTS](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](https://github.com/sentientdesigns/minidungeons) - Procedural dungeon-like game.
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
-- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition. [Website](http://www.pacmanvghosts.co.uk).
+- [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 - [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
