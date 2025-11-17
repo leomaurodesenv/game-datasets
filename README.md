@@ -66,7 +66,6 @@ ______________________________________________________________________
 
 ## Artificial Intelligence
 
-- [AI Birds](http://aibirds.org) - Artificial intelligence competition.
 - [CyberBattleSim](https://github.com/microsoft/CyberBattleSim) - Experimentation platform to investigate automated agents. [Website](https://www.microsoft.com/en-us/research/project/cyberbattlesim/).
 - [Daimonin](https://www.daimonin.org/) - Isometric MMORPG.
 - [Deliantra](http://www.deliantra.net/) - Adventure game in a medieval environment.
@@ -78,7 +77,6 @@ ______________________________________________________________________
 - [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 - [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
-- [irrlamb](https://github.com/jazztickets/irrlamb) - Puzzle game with physics effects in 3D.
 - [Malmo](https://github.com/Microsoft/malmo) - Platform built on top of [Minecraft](https://www.minecraft.net/en-us/) game.
 - [microRTS](https://github.com/santiontanon/microrts) - RTS game competition. [PT-BR](https://github.com/rubensolv/MicroRTS).
 - [MiniDungeons](https://github.com/sentientdesigns/minidungeons) - Procedural dungeon-like game.
