@@ -21,5 +21,5 @@ jobs:
     - name: Check links with lychee
       uses: lycheeverse/lychee-action@v2.7.0
       with:
-        args: --accept 200,204,403,429 --timeout 20 --exclude-all-private
+        args: --accept '200..=204, 401, 429' --exclude-all-private
         fail: true
