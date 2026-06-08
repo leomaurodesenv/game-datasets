@@ -262,7 +262,6 @@ ______________________________________________________________________
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games.
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
-- [Reddit - Datasets](https://www.reddit.com/r/datasets) - Forum of datasets.
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 
 ______________________________________________________________________
