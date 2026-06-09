@@ -54,7 +54,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [smm-course-viewer](https://github.com/leomaurodesenv/smm-course-viewer) - Read courses from Super Mario Maker saves.
 - [smm-maker-profile](https://github.com/leomaurodesenv/smm-maker-profile) - Fetch the user profile from Super Mario Maker game.
 - [Steam Database](https://github.com/SteamDatabase) - Series of tools to Steam data. [Website](https://steamdb.info/).
-- [Steambase](https://github.com/Steambase) - Steam data tools and insights. [Website](https://steambase.io/).
 - [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
