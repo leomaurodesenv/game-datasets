@@ -48,6 +48,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [OpenCritic](https://www.opencritic.com) - Game reviews aggregator.
 - [OpenDota](https://www.opendota.com/) - Platform providing Dota 2 data.
 - [PandaScore](https://pandascore.co/) - Realtime eSports data.
+- [PixelGamesHub AI Games Index](https://pixelgameshub.com/ai-games/index) - Curated index of AI-powered browser games with open JSON and CSV endpoints.
 - [PokéAPI](https://pokeapi.co/) - Pokémon data of all generations.
 - [Riot Games](https://developer.riotgames.com/) - Active games, match history, and ranked statistics.
 - [smm-course-search](https://github.com/leomaurodesenv/smm-course-search) - Search courses from Super Mario Maker game.
@@ -198,6 +199,7 @@ ______________________________________________________________________
 - [StarCraft II Replay Analysis](https://www.kaggle.com/sfu-summit/starcraft-ii-replay-analysis) - Aggregation of the replays.
 - [Starcraft: Scouting The Enemy](https://www.kaggle.com/kinguistics/starcraft-scouting-the-enemy) - Player reconnaissance in professional-level.
 - [StarData](https://github.com/TorchCraft/StarData) - Matches, videos, etc. [Website](http://nova.wolfwork.com/dataMining.html), [paper](https://arxiv.org/abs/1708.02139).
+- [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser games industry metrics across competitor sites, downloadable as open CSV under CC-BY-4.0.
 - [Super Trunfo - Dinossaurs 2](https://www.kaggle.com/kandebonfim/super-trunfo-dinossaurs-2) - Cards of this game.
 - [Terra Mystica Snellman Statistics](https://www.kaggle.com/lemonkoala/terra-mystica) - Game logs and statistics.
 - [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
