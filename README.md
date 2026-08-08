@@ -58,7 +58,6 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
-- [TrendingNow.games](https://trendingnow.games/data-feeds) - Real-time trending Steam game data with free CSV, RSS, and JSON feeds updated hourly.
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [paper](https://doi.org/10.1145/1943552.1943569).
@@ -74,7 +73,6 @@ ______________________________________________________________________
 - [Dungeon Crawl: Stone Soup](https://github.com/crawl/crawl) - Roguelike adventure.
 - [Fighting Game AI Competition](http://www.ice.ci.ritsumei.ac.jp/~ftgaic/) - Controller for a fighting game.
 - [FlightGear Flight Simulator](https://www.flightgear.org/) - Flight simulator.
-- [General Video Game AI](http://www.gvgai.net/) - Controller for general video game playing. [Paper](https://arxiv.org/abs/1802.10363).
 - [Halite by Two Sigma](https://www.kaggle.com/c/halite/) - Collect the halite during a match in space.
 - [Hanabi Competition](http://hanabi.aiclash.com/) - Board game competition.
 - [Infinite Mario Bros](http://www.marioai.org/) - Super Mario competition. Platformer AI antecedent. [Website](http://julian.togelius.com/mariocompetition2009/).
