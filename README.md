@@ -191,6 +191,7 @@ ______________________________________________________________________
 - [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
 - [Self Driving Car](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning) - Behavioural Cloning Complete Guide.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
+- [Slay the Spire Runs](https://drive.google.com/drive/folders/1c7MwTdLxnPgvmPbBEfNWa45YAUU53H0l) - 77 million Slay the Spire Runs from 2018-2020
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
 - [StarCraft 2 (UCI)](https://archive.ics.uci.edu/ml/datasets/SkillCraft1+Master+Table+Dataset) - Data stream of matches. [Paper](https://doi.org/10.1371/journal.pone.0075129).
 - [StarCraft II matches history](https://www.kaggle.com/alimbekovkz/starcraft-ii-matches-history) - Results of matches.
