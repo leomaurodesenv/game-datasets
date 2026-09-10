@@ -180,6 +180,8 @@ ______________________________________________________________________
 - [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
 - [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
+- [Pokémon Card Centering Measurements](https://zenodo.org/records/21788534) - Measured centering percentages (L/R and T/B) on 302 real Pokémon TCG eBay listings, with PSA 10 pass/fail windows.
+- [Pokémon Card Sold-Price Reference by Grade](https://zenodo.org/records/22124729) - Median sold prices by grade (raw, PSA 9, PSA 10) and sample counts for 486 Pokémon TCG cards.
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
@@ -204,7 +206,6 @@ ______________________________________________________________________
 - [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
-- [VGLocations Public Preview Dataset](https://vglocations.org/video-game-locations-datasets/) - A curated geospatial dataset of real-world video game locations, with free CSV releases containing up to 3,000 locations.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records.
 - [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
 
