@@ -190,6 +190,7 @@ ______________________________________________________________________
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - Pokemon appear in PokemonGo over time.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
+- [Roblox Game Codes Dataset](https://github.com/lianlele168/roblox-codes-dataset) - 527 verified redeem codes across 19 Roblox games, openly licensed (CC BY 4.0).
 - [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
 - [Self Driving Car](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning) - Behavioural Cloning Complete Guide.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
