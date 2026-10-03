@@ -190,6 +190,7 @@ ______________________________________________________________________
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
 - [PokemonGO](https://www.kaggle.com/abcsds/pokemongo) - Pokemon and battle stats.
 - [Predict'em All](https://www.kaggle.com/semioniy/predictemall) - Pokemon appear in PokemonGo over time.
+- [Prediction Market Pro Stats](https://github.com/tipsstats/prediction-market-pro-stats) - Weekly prediction-market statistics for esports and other sports, including per-competition hit rates and favourite calibration by probability band.
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
 - [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
 - [Self Driving Car](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning) - Behavioural Cloning Complete Guide.
