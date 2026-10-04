@@ -193,6 +193,7 @@ ______________________________________________________________________
 - [PUBG Match Deaths and Statistics](https://www.kaggle.com/skihikingkevin/pubg-match-deaths) - Matches data.
 - [Scrabble](https://github.com/onzie9/Quackle_Self_Play) - Data Quackle game matches.
 - [Self Driving Car](https://www.kaggle.com/datasets/aslanahmedov/self-driving-carbehavioural-cloning) - Behavioural Cloning Complete Guide.
+- [shooter-atlas-data](https://github.com/Poki312/shooter-atlas-data) - Dated concurrent-player readings and reference tables for large-scale tactical shooters, as CSV and JSON.
 - [SkillCraft-StarCraft](https://www.kaggle.com/danofer/skillcraft) - StarCraft 2 league-level performance.
 - [Slay the Spire Runs](https://drive.google.com/drive/folders/1c7MwTdLxnPgvmPbBEfNWa45YAUU53H0l) - 77 million Slay the Spire Runs from 2018-2020.
 - [SMMnet](https://www.kaggle.com/leomauro/smmnet) - Network data from Super Mario Maker.
