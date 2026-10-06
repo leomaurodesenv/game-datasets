@@ -228,6 +228,7 @@ ______________________________________________________________________
 - [Steam Games Dataset](https://www.kaggle.com/datasets/nikatomashvili/steam-games-dataset) - Dataset scraped from Steam search system.
 - [Steam Review Datasets](https://github.com/mulhod/steam_reviews) - Steam user reviews.
 - [Steam Store Games](https://www.kaggle.com/datasets/nikdavis/steam-store-games) - Information about 27,000 games scraped from Steam and SteamSpy APIs.
+- [Steam Tactical Shooter Data](https://github.com/Poki312/steam-tactical-shooter-data) - Dated snapshots read from Valve's own public surfaces for eight large-scale tactical shooters: open-session counts sampled in one minute, achievement unlock shares, regional prices and language support, with the CLI that refreshes them.
 - [Steam Video Games](https://www.kaggle.com/datasets/tamber/steam-video-games) - Steam user interactions.
 - [Vandal Game Reviews](https://www.kaggle.com/floval/12-000-video-game-reviews-from-vandal) - Game data from [Vandal.com](https://vandal.elespanol.com/).
 - [Video Game DATA](https://www.kaggle.com/juttugarakesh/video-game-data) - Video games released.
