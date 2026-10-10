@@ -215,7 +215,6 @@ ______________________________________________________________________
 - [Computer Games Dataset](https://www.kaggle.com/datasets/iamsouravbanerjee/computer-games-dataset) - Gaming World: A Comprehensive Computer Games Dataset.
 - [Google Play Store Apps](https://www.kaggle.com/lava18/google-play-store-apps) - Data from Play Store apps.
 - [JVC Game Reviews](https://www.kaggle.com/floval/jvc-game-reviews) - Video game data from [JeuxVideo.com](http://www.jeuxvideo.com/).
-- [Kick and Twitch share of viewing by category](https://github.com/playersells/open-data/tree/master/datasets/kick-twitch-category-viewing-2026-09-26) - Share of concurrent viewing per streaming category on Kick and Twitch, daily and for the week of 26 September 2026, with gambling categories flagged.
 - [Kickstarter Datasets](https://webrobots.io/kickstarter-datasets/) - Projects details.
 - [Metacritic games](https://www.kaggle.com/destring/metacritic-reviewed-games-since-2000) - Games data from [metacritc](https://www.metacritic.com).
 - [NEXARDA Franchises](https://www.nexarda.com/pages/complete-list-of-video-game-franchises) - Franchises data from [nexarda.com](https://www.nexarda.com).
@@ -267,6 +266,7 @@ ______________________________________________________________________
 - [Libre Game Wiki](https://libregamewiki.org/Main_Page) - Free gaming encyclopedia.
 - [Open HTML5 Games](https://github.com/OpenHTML5Games) - JavaScript and HTML5 games.
 - [Open-source games](https://pt.wikipedia.org/wiki/Lista_de_jogos_de_c%C3%B3digo_aberto) - Open-source games (PT-BR).
+- [PlayerSells Open Data](https://github.com/playersells/open-data/) - Measured streaming and creator datasets: Kick and Twitch viewing by category, simulcasting, and follower and engagement benchmarks (CC BY 4.0).
 - [UCI](https://archive.ics.uci.edu/) - Datasets.
 
 ______________________________________________________________________
