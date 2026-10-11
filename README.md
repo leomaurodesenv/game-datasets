@@ -150,6 +150,7 @@ ______________________________________________________________________
 - [Complete FIFA 2017 Player dataset (Global)](https://www.kaggle.com/artimous/complete-fifa-2017-player-dataset-global) - Players data.
 - [Condensing Steam: Distilling the Diversity of Gamer Behavior](http://academictorrents.com/details/eba3b48fcdaa9e69a927051f1678251a86a546f3) - Temporal games data.
 - [Connect-4 Data Set](https://archive.ics.uci.edu/ml/datasets/Connect-4) - Connect-4 game matches.
+- [Co-op Game Night Data](https://github.com/gegewang774-hue/coop-game-night-data) - Dated co-op game metadata with official sources, player-cap uncertainty, CSV and JSON exports, and a local filtering tool.
 - [CS:GO Competitive Matchmaking Data](https://www.kaggle.com/skihikingkevin/csgo-matchmaking-damage) - Damage entries on rounds played.
 - [CS:GO Steam Reviews](https://www.kaggle.com/datasets/noahx1/csgo-steam-reviews) - Steam Reviews.
 - [Data Game ClashRoyale](https://www.kaggle.com/lucianomartins/data-game-clashroyale) - Player data of Clash Royale game.
@@ -180,6 +181,7 @@ ______________________________________________________________________
 - [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
 - [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
 - [Path of exile game statistic](https://www.kaggle.com/gagazet/path-of-exile-league-statistic) - Players data.
+- [Planet Zoo 2 launch dataset](https://github.com/odebo/planet-zoo-2-dataset) - Species data with biome, enclosure, taxonomy and conservation fields, plus a pairwise cohabitation compatibility matrix.
 - [Platform Experience Dataset](https://drive.google.com/drive/folders/0B93_a48_LnJ0VEc3NklYbWpVZXM) - Super Mario Bros matches. [Paper](https://doi.org/10.1109/ACII.2015.7344647).
 - [Pokémon Card Centering Measurements](https://zenodo.org/records/21788534) - Measured centering percentages (L/R and T/B) on 302 real Pokémon TCG eBay listings, with PSA 10 pass/fail windows.
 - [Pokémon Card Sold-Price Reference by Grade](https://zenodo.org/records/22124729) - Median sold prices by grade (raw, PSA 9, PSA 10) and sample counts for 486 Pokémon TCG cards.
