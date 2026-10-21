@@ -178,6 +178,7 @@ ______________________________________________________________________
 - [NBA Players](https://www.kaggle.com/datasets/justinas/nba-players-data) - Biometric, biographic and basic box score features from 1996 to 2019 season.
 - [Oldschool Runescape Polling Data](https://www.kaggle.com/nikkynak/oldschool-runescape-polling-data) - Historical polling data.
 - [OpenDota](https://blog.opendota.com/2017/03/24/datadump2/) - Continuous database of Dota 2 matches.
+- [OSTDB](https://github.com/OSTDB/soundtracks) - Official video game soundtracks (2,300+ albums for 1,800+ games) with Spotify, Apple Music and album.link URLs, as CSV, JSON and SQLite. [Website](https://ostdb.net), [API](https://ostdb.net/api).
 - [Overwatch Game Records](https://www.kaggle.com/mylesoneill/overwatch-game-records) - Stats of one player from thousands of matches.
 - [Overwatch Ranked Data](https://www.kaggle.com/simonho87/overwatch-ranked-data) - Player and match data.
 - [Overwatch](https://www.kaggle.com/edopic/overwatch) - Heros characteristics.
