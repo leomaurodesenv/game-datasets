@@ -79,7 +79,7 @@ ______________________________________________________________________
 - [Morai-Maker-Engine](https://github.com/mguzdial3/Morai-Maker-Engine) - Cooperative game level editor. [Paper](http://dx.doi.org/10.1145/3290605.3300854).
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
-- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game. [Website](https://openmw.org/en/).
+- [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game.
 - [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld](https://github.com/polyworld/polyworld) - Artificial life system.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine.
