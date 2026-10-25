@@ -57,6 +57,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [Steam Spy](https://github.com/topics/steamspy) - Game statistical from Steam users profiles.
 - [Steam Web API](https://developer.valvesoftware.com/wiki/Steam_Web_API) - Query tool from Steam.
 - [TGDB](https://github.com/TheGamesDB/TheGamesDB/) - General information of games from any platform. [Website](https://thegamesdb.net/).
+- [unicum.gg](https://unicum.gg/docs) - World of Tanks player, clan, tank and map statistics across EU, NA and Asia, free and with no key. [Website](https://unicum.gg).
 - [vgchartzScrape](https://github.com/GregorUT/vgchartzScrape) - Crawler from [VGChartz](http://www.vgchartz.com).
 - [WhatoPlay](https://whatoplay.com) - Game reviews and ratings aggregator, and a recommender for discovering games.
 - [Xbox LIVE API](https://github.com/xboxapi) - Games, apps, users stats and messages. [paper](https://doi.org/10.1145/1943552.1943569).
