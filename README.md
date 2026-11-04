@@ -143,6 +143,7 @@ ______________________________________________________________________
 - [Board Games Dataset](https://www.kaggle.com/datasets/sujaykapadnis/board-games) - Board Games Dataset from [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Board Games Dataset](https://www.kaggle.com/datasets/gabrio/board-games-dataset) - Attributes and the ratings from board games in [BoardGameGeek](https://www.boardgamegeek.com/).
 - [Boardgaming Online Game Records](https://www.kaggle.com/jingking/boardgaming-online-processed-game-records) - Playthroughs of board games.
+- [Boltshorts Mobile Games Data](https://github.com/phescobbar/mobile-games-data) - Store facts for ~8,000 iPhone and Android games from the US App Store and Google Play: ratings, downloads, prices, ads and in-app purchase labels, download sizes and chart positions, with dated snapshots. CSV, CC BY 4.0.
 - [bravefrontier_data](https://github.com/cheahjs/bravefrontier_data) - Mobile game data, items and missions information.
 - [CartolaFC](https://www.kaggle.com/schiller/cartolafc) - Popular brazilian fantasy football (from 2014 to 2017).
 - [Chess Game Dataset (Lichess)](https://www.kaggle.com/datasets/datasnaek/chess) - Chess games, including moves, victor, rating, opening details and more.
