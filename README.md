@@ -189,6 +189,7 @@ ______________________________________________________________________
 - [Pokémon Card Sold-Price Reference by Grade](https://zenodo.org/records/22124729) - Median sold prices by grade (raw, PSA 9, PSA 10) and sample counts for 486 Pokémon TCG cards.
 - [Pokémon for Data Mining and Machine Learning](https://www.kaggle.com/datasets/alopez247/pokemon) - Stats of 721 Pokémon of the first six generations.
 - [Pokémon GO Pokédex](https://github.com/Biuni/PokemonGO-Pokedex) - Encyclopedia Pokemon.
+- [Pokemon Type Chart Dataset](https://github.com/lincyang720/type-chart-calculator/tree/main/dataset) - Gen 6-9 type effectiveness chart and 171 type combinations as CSV/JSON.
 - [Pokemon with stats](https://www.kaggle.com/abcsds/pokemon) - Pokemon data with stats and types.
 - [Pokemon Wonder Trade Results](https://data.world/notgibs/pokemon-wonder-trade-results) - Results of wonder trades in Pokemon Moon version.
 - [Pokemon- Weedle's Cave](https://www.kaggle.com/terminus7/pokemon-challenge) - Battle data of Pokemon.
