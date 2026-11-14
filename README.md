@@ -210,6 +210,7 @@ ______________________________________________________________________
 - [The Complete Pokemon Dataset](https://www.kaggle.com/datasets/rounakbanik/pokemon) - Pokemon data from all generations.
 - [The Quick, Draw! Dataset](https://github.com/googlecreativelab/quickdraw-dataset) - Collection of 50 million drawings across 345 categories.
 - [Travian buildings](https://www.kaggle.com/cblesa/travian-buildings) - Time, cost and bonus of buildings.
+- [Vampire Crawlers Guide Data](https://github.com/thedogb/vampire-crawlers-guide-data) - Cards, evolutions, relics, bosses and achievements for Vampire Crawlers.
 - [World of Warcraft Avatar History](https://www.kaggle.com/mylesoneill/warcraft-avatar-history) - Collection of records.
 - [World of Warcraft Battlegrounds](https://www.kaggle.com/cblesa/world-of-warcraft-battlegrounds) - Details of battlegrounds.
 
