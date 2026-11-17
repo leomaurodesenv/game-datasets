@@ -247,6 +247,7 @@ ______________________________________________________________________
 - [Euro-Monitor, Video Games](https://www.euromonitor.com/) - Strategic Market Researcher.
 - [Grand View Research, Digital Media](https://www.grandviewresearch.com/industry/digital-media) - Syndicated market research studies.
 - [IndieList](https://indielist.games/) - Indie game, studio, publisher, and funding relationship data with transparent sales estimates and market research tools.
+- [Markan](https://markan.games) - Free Steam market data for about 200,000 games and DLC, with sales and revenue estimates, a GraphQL API, an MCP server and Google Sheets and Excel add-ins.
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
 
