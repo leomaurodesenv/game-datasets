@@ -81,7 +81,6 @@ ______________________________________________________________________
 - [Ms. Pac-Man](http://gameaibook.org/wp-content/uploads/2016/10/mspacman-master.zip) - Pac-Man game competition.
 - [OpenLieroX](http://www.openlierox.net/) - Liero (similar to Worms) game.
 - [openmw](https://gitlab.com/OpenMW/openmw) - Open-world RPG game.
-- [Platformer AI](https://sites.google.com/site/platformersai/) - Super Mario competition.
 - [polyworld](https://github.com/polyworld/polyworld) - Artificial life system.
 - [qengine](https://github.com/klaussilveira/qengine) - Retro game engine.
 - [Retro Contest](https://github.com/openai/retro) - Competition on SEGA Genesis games. [Website](https://openai.com/blog/retro-contest/).
