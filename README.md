@@ -41,6 +41,7 @@ API is _"a set of functions and procedures allowing the creation of applications
 - [BoardGameGeek](https://boardgamegeek.com/wiki/page/BGG_XML_API2) - Board games data.
 - [Counter-Strike](https://github.com/pnxenopoulos/csgo) - data parsing for Counter-Strike: Global Offensive (CSGO).
 - [Giant Bomb](https://www.giantbomb.com/api/) - Game data and players review.
+- [GoCDKey](https://gocdkey.nl/data) - Dutch game retail offers with euro prices, activation platforms, seller types and observation timestamps.
 - [IGDB](https://www.igdb.com/api) - General information of games from any platform.
 - [Marvel Developer](https://developer.marvel.com/) - Information about Marvel's vast library of comics.
 - [metacritc](https://www.metacritic.com/game) - Game reviews and evaluation.
