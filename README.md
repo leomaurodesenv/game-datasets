@@ -252,6 +252,7 @@ ______________________________________________________________________
 - [Markan](https://markan.games) - Free Steam market data for about 200,000 games and DLC, with sales and revenue estimates, a GraphQL API, an MCP server and Google Sheets and Excel add-ins.
 - [Newzoo](https://newzoo.com/) - View on the games market. Unparalleled insights and value.
 - [Statista, Video Games](https://www.statista.com/topics/868/video-games/) - Market and opinion research institutes and data derived from the economic sector.
+- [SteamVaults Market Report](https://steamvaults.org/market-report/2026-11-16) - Dated Steam Community Market snapshots of lowest asking prices and active listings for Counter-Strike 2, Dota 2, Rust, and Team Fortress 2, with a downloadable CSV.
 
 ______________________________________________________________________
 
